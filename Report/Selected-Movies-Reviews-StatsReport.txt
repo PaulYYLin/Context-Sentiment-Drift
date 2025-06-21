@@ -1,0 +1,497 @@
+================================================================================
+MOVIE REVIEWS DATA ANALYSIS REPORT
+================================================================================
+
+📋 DATA SELECTION CRITERIA SUMMARY
+--------------------------------------------------
+✓ Word Count Range: 30-100 words
+✓ Reviews per Movie: 30
+✓ Sampling Method: stratified by rating
+✓ Total Movies: 60
+
+⭐ RATING DISTRIBUTION ANALYSIS
+--------------------------------------------------
+
+Low Rating (1.0-2.5): 334 reviews
+  Average: 1.21
+  Range: 1.0 - 2.0
+
+High Rating (4.1-5.0): 126 reviews
+  Average: 5.00
+  Range: 5.0 - 5.0
+
+Medium Rating (2.6-4.0): 164 reviews
+  Average: 3.52
+  Range: 3.0 - 4.0
+
+📊 OVERALL RATING STATISTICS
+--------------------------------------------------
+Total Reviews: 624
+Average Rating: 2.58
+Median Rating: 2.00
+Rating Range: 1.0 - 5.0
+Standard Deviation: 1.61
+
+Rating Distribution Details:
+  1.0 stars: 265 reviews (42.5%)
+  2.0 stars: 69 reviews (11.1%)
+  3.0 stars: 79 reviews (12.7%)
+  4.0 stars: 85 reviews (13.6%)
+  5.0 stars: 126 reviews (20.2%)
+
+📝 WORD COUNT ANALYSIS
+--------------------------------------------------
+Average Word Count: 53.1
+Median Word Count: 48.0
+Word Count Range: 30 - 100
+Standard Deviation: 19.12
+
+👍 HELPFUL VOTES ANALYSIS
+--------------------------------------------------
+Total Helpful Votes: 1835
+Average Helpful Votes: 2.94
+Median Helpful Votes: 0.0
+Maximum Helpful Votes: 227
+
+Helpful Votes Distribution:
+  0 votes: 380 reviews (60.9%)
+  1-5 votes: 192 reviews (30.8%)
+  6-10 votes: 25 reviews (4.0%)
+  11+ votes: 27 reviews (4.3%)
+
+✅ PURCHASE VERIFICATION ANALYSIS
+--------------------------------------------------
+Verified Purchase: 395 reviews (63.3%)
+Unverified Purchase: 229 reviews (36.7%)
+
+📅 TEMPORAL DISTRIBUTION ANALYSIS
+--------------------------------------------------
+Review Time Range: 2010 - 2023
+Years Spanned: 14 years
+
+Distribution by Year (Top 10):
+  2016: 209 reviews (33.5%)
+  2022: 72 reviews (11.5%)
+  2021: 66 reviews (10.6%)
+  2014: 59 reviews (9.5%)
+  2019: 45 reviews (7.2%)
+  2020: 45 reviews (7.2%)
+  2017: 42 reviews (6.7%)
+  2015: 35 reviews (5.6%)
+  2018: 31 reviews (5.0%)
+  2013: 12 reviews (1.9%)
+
+🎬 DETAILED MOVIE STATISTICS
+--------------------------------------------------
+
+1. Movie ID: B01GU87FNA
+   Review Count: 50
+   Average Rating: 3.20
+   Word Count Stats: 31-98 (avg: 57.4)
+   Total Helpful Votes: 74
+   Verified Purchase Rate: 98.0%
+   Rating Distribution: 1.0 stars: 13 reviews, 3.0 stars: 13 reviews, 4.0 stars: 12 reviews, 5.0 stars: 12 reviews
+
+2. Movie ID: B0B5HP8KC5
+   Review Count: 50
+   Average Rating: 3.32
+   Word Count Stats: 30-97 (avg: 60.1)
+   Total Helpful Votes: 156
+   Verified Purchase Rate: 10.0%
+   Rating Distribution: 1.0 stars: 7 reviews, 2.0 stars: 6 reviews, 3.0 stars: 13 reviews, 4.0 stars: 12 reviews, 5.0 stars: 12 reviews
+
+3. Movie ID: B00DKGWLGM
+   Review Count: 45
+   Average Rating: 1.36
+   Word Count Stats: 31-99 (avg: 52.6)
+   Total Helpful Votes: 116
+   Verified Purchase Rate: 20.0%
+   Rating Distribution: 1.0 stars: 36 reviews, 2.0 stars: 4 reviews, 3.0 stars: 3 reviews, 4.0 stars: 2 reviews
+
+4. Movie ID: B00OHCJ0AS
+   Review Count: 41
+   Average Rating: 1.41
+   Word Count Stats: 30-98 (avg: 46.6)
+   Total Helpful Votes: 96
+   Verified Purchase Rate: 87.8%
+   Rating Distribution: 1.0 stars: 33 reviews, 2.0 stars: 3 reviews, 3.0 stars: 2 reviews, 4.0 stars: 2 reviews, 5.0 stars: 1 reviews
+
+5. Movie ID: B00RHSZ2EM
+   Review Count: 39
+   Average Rating: 2.41
+   Word Count Stats: 30-95 (avg: 50.4)
+   Total Helpful Votes: 32
+   Verified Purchase Rate: 97.4%
+   Rating Distribution: 1.0 stars: 14 reviews, 2.0 stars: 8 reviews, 3.0 stars: 6 reviews, 4.0 stars: 9 reviews, 5.0 stars: 2 reviews
+
+6. Movie ID: B00V0IUG5U
+   Review Count: 39
+   Average Rating: 1.95
+   Word Count Stats: 30-88 (avg: 46.3)
+   Total Helpful Votes: 230
+   Verified Purchase Rate: 92.3%
+   Rating Distribution: 1.0 stars: 22 reviews, 2.0 stars: 7 reviews, 3.0 stars: 4 reviews, 4.0 stars: 2 reviews, 5.0 stars: 4 reviews
+
+7. Movie ID: B08DK66KLR
+   Review Count: 35
+   Average Rating: 3.37
+   Word Count Stats: 31-97 (avg: 59.5)
+   Total Helpful Votes: 2
+   Verified Purchase Rate: 91.4%
+   Rating Distribution: 1.0 stars: 6 reviews, 2.0 stars: 7 reviews, 3.0 stars: 2 reviews, 4.0 stars: 8 reviews, 5.0 stars: 12 reviews
+
+8. Movie ID: B093JXP1G7
+   Review Count: 34
+   Average Rating: 3.09
+   Word Count Stats: 32-100 (avg: 62.2)
+   Total Helpful Votes: 721
+   Verified Purchase Rate: 0.0%
+   Rating Distribution: 1.0 stars: 13 reviews, 3.0 stars: 4 reviews, 4.0 stars: 5 reviews, 5.0 stars: 12 reviews
+
+9. Movie ID: B00QROFP4E
+   Review Count: 32
+   Average Rating: 2.59
+   Word Count Stats: 30-99 (avg: 48.6)
+   Total Helpful Votes: 15
+   Verified Purchase Rate: 100.0%
+   Rating Distribution: 1.0 stars: 11 reviews, 2.0 stars: 6 reviews, 3.0 stars: 4 reviews, 4.0 stars: 7 reviews, 5.0 stars: 4 reviews
+
+10. Movie ID: B01I24FZ1Y
+   Review Count: 29
+   Average Rating: 1.62
+   Word Count Stats: 30-83 (avg: 52.1)
+   Total Helpful Votes: 12
+   Verified Purchase Rate: 44.8%
+   Rating Distribution: 1.0 stars: 22 reviews, 2.0 stars: 2 reviews, 3.0 stars: 1 reviews, 4.0 stars: 2 reviews, 5.0 stars: 2 reviews
+
+11. Movie ID: B00V3VTNY4
+   Review Count: 28
+   Average Rating: 2.61
+   Word Count Stats: 30-73 (avg: 43.8)
+   Total Helpful Votes: 50
+   Verified Purchase Rate: 96.4%
+   Rating Distribution: 1.0 stars: 8 reviews, 2.0 stars: 5 reviews, 3.0 stars: 9 reviews, 4.0 stars: 2 reviews, 5.0 stars: 4 reviews
+
+12. Movie ID: B00DKIH7PU
+   Review Count: 21
+   Average Rating: 1.33
+   Word Count Stats: 31-90 (avg: 46.1)
+   Total Helpful Votes: 6
+   Verified Purchase Rate: 61.9%
+   Rating Distribution: 1.0 stars: 15 reviews, 2.0 stars: 5 reviews, 3.0 stars: 1 reviews
+
+13. Movie ID: B07788T9XJ
+   Review Count: 20
+   Average Rating: 1.00
+   Word Count Stats: 30-99 (avg: 51.0)
+   Total Helpful Votes: 55
+   Verified Purchase Rate: 5.0%
+   Rating Distribution: 1.0 stars: 20 reviews
+
+14. Movie ID: B07H4ZNPWD
+   Review Count: 19
+   Average Rating: 4.74
+   Word Count Stats: 33-94 (avg: 49.4)
+   Total Helpful Votes: 54
+   Verified Purchase Rate: 63.2%
+   Rating Distribution: 3.0 stars: 1 reviews, 4.0 stars: 3 reviews, 5.0 stars: 15 reviews
+
+15. Movie ID: B00HR0P9XE
+   Review Count: 14
+   Average Rating: 3.14
+   Word Count Stats: 30-77 (avg: 55.5)
+   Total Helpful Votes: 14
+   Verified Purchase Rate: 85.7%
+   Rating Distribution: 1.0 stars: 3 reviews, 2.0 stars: 3 reviews, 3.0 stars: 2 reviews, 4.0 stars: 1 reviews, 5.0 stars: 5 reviews
+
+16. Movie ID: B00MQNHQTC
+   Review Count: 10
+   Average Rating: 2.80
+   Word Count Stats: 32-92 (avg: 58.2)
+   Total Helpful Votes: 21
+   Verified Purchase Rate: 90.0%
+   Rating Distribution: 1.0 stars: 2 reviews, 3.0 stars: 6 reviews, 4.0 stars: 2 reviews
+
+17. Movie ID: B005DD7Q9M
+   Review Count: 10
+   Average Rating: 3.30
+   Word Count Stats: 38-88 (avg: 62.6)
+   Total Helpful Votes: 60
+   Verified Purchase Rate: 70.0%
+   Rating Distribution: 1.0 stars: 3 reviews, 2.0 stars: 1 reviews, 4.0 stars: 2 reviews, 5.0 stars: 4 reviews
+
+18. Movie ID: B07GN1GC7Q
+   Review Count: 10
+   Average Rating: 4.00
+   Word Count Stats: 30-78 (avg: 42.8)
+   Total Helpful Votes: 12
+   Verified Purchase Rate: 60.0%
+   Rating Distribution: 1.0 stars: 1 reviews, 2.0 stars: 2 reviews, 5.0 stars: 7 reviews
+
+19. Movie ID: B077FFCKWD
+   Review Count: 8
+   Average Rating: 3.88
+   Word Count Stats: 31-84 (avg: 51.6)
+   Total Helpful Votes: 15
+   Verified Purchase Rate: 37.5%
+   Rating Distribution: 1.0 stars: 2 reviews, 4.0 stars: 1 reviews, 5.0 stars: 5 reviews
+
+20. Movie ID: B01GU8CL5C
+   Review Count: 7
+   Average Rating: 2.29
+   Word Count Stats: 37-89 (avg: 62.0)
+   Total Helpful Votes: 6
+   Verified Purchase Rate: 71.4%
+   Rating Distribution: 1.0 stars: 4 reviews, 2.0 stars: 1 reviews, 5.0 stars: 2 reviews
+
+21. Movie ID: B00RHRJKWS
+   Review Count: 6
+   Average Rating: 2.83
+   Word Count Stats: 32-87 (avg: 55.8)
+   Total Helpful Votes: 3
+   Verified Purchase Rate: 100.0%
+   Rating Distribution: 1.0 stars: 2 reviews, 2.0 stars: 1 reviews, 4.0 stars: 2 reviews, 5.0 stars: 1 reviews
+
+22. Movie ID: B083LGV145
+   Review Count: 6
+   Average Rating: 3.33
+   Word Count Stats: 30-64 (avg: 44.5)
+   Total Helpful Votes: 4
+   Verified Purchase Rate: 100.0%
+   Rating Distribution: 1.0 stars: 1 reviews, 2.0 stars: 1 reviews, 3.0 stars: 1 reviews, 4.0 stars: 1 reviews, 5.0 stars: 2 reviews
+
+23. Movie ID: B00BTFK07I
+   Review Count: 5
+   Average Rating: 1.20
+   Word Count Stats: 43-93 (avg: 67.2)
+   Total Helpful Votes: 5
+   Verified Purchase Rate: 60.0%
+   Rating Distribution: 1.0 stars: 4 reviews, 2.0 stars: 1 reviews
+
+24. Movie ID: B00RHRJR76
+   Review Count: 5
+   Average Rating: 3.80
+   Word Count Stats: 39-84 (avg: 54.8)
+   Total Helpful Votes: 9
+   Verified Purchase Rate: 20.0%
+   Rating Distribution: 1.0 stars: 1 reviews, 4.0 stars: 2 reviews, 5.0 stars: 2 reviews
+
+25. Movie ID: B093K6VPXX
+   Review Count: 4
+   Average Rating: 1.50
+   Word Count Stats: 34-66 (avg: 48.8)
+   Total Helpful Votes: 19
+   Verified Purchase Rate: 0.0%
+   Rating Distribution: 1.0 stars: 3 reviews, 3.0 stars: 1 reviews
+
+26. Movie ID: B08J98LGPS
+   Review Count: 4
+   Average Rating: 1.00
+   Word Count Stats: 63-97 (avg: 74.0)
+   Total Helpful Votes: 1
+   Verified Purchase Rate: 0.0%
+   Rating Distribution: 1.0 stars: 4 reviews
+
+27. Movie ID: B082LTWDKD
+   Review Count: 4
+   Average Rating: 1.50
+   Word Count Stats: 37-83 (avg: 56.2)
+   Total Helpful Votes: 1
+   Verified Purchase Rate: 25.0%
+   Rating Distribution: 1.0 stars: 3 reviews, 3.0 stars: 1 reviews
+
+28. Movie ID: B094S64YJ5
+   Review Count: 4
+   Average Rating: 2.75
+   Word Count Stats: 39-92 (avg: 65.2)
+   Total Helpful Votes: 10
+   Verified Purchase Rate: 75.0%
+   Rating Distribution: 1.0 stars: 1 reviews, 2.0 stars: 1 reviews, 3.0 stars: 1 reviews, 5.0 stars: 1 reviews
+
+29. Movie ID: B0849Q3KKF
+   Review Count: 4
+   Average Rating: 3.25
+   Word Count Stats: 31-64 (avg: 47.5)
+   Total Helpful Votes: 4
+   Verified Purchase Rate: 100.0%
+   Rating Distribution: 1.0 stars: 1 reviews, 3.0 stars: 1 reviews, 4.0 stars: 1 reviews, 5.0 stars: 1 reviews
+
+30. Movie ID: B006LM6P0K
+   Review Count: 4
+   Average Rating: 5.00
+   Word Count Stats: 34-58 (avg: 42.8)
+   Total Helpful Votes: 1
+   Verified Purchase Rate: 75.0%
+   Rating Distribution: 5.0 stars: 4 reviews
+
+31. Movie ID: B0033CTKBC
+   Review Count: 4
+   Average Rating: 3.50
+   Word Count Stats: 30-71 (avg: 44.8)
+   Total Helpful Votes: 7
+   Verified Purchase Rate: 50.0%
+   Rating Distribution: 1.0 stars: 1 reviews, 3.0 stars: 1 reviews, 5.0 stars: 2 reviews
+
+32. Movie ID: B07Z5GKVK2
+   Review Count: 3
+   Average Rating: 3.00
+   Word Count Stats: 40-55 (avg: 49.0)
+   Total Helpful Votes: 0
+   Verified Purchase Rate: 100.0%
+   Rating Distribution: 2.0 stars: 1 reviews, 3.0 stars: 1 reviews, 4.0 stars: 1 reviews
+
+33. Movie ID: B07BKQZ9GQ
+   Review Count: 3
+   Average Rating: 1.67
+   Word Count Stats: 57-75 (avg: 63.3)
+   Total Helpful Votes: 1
+   Verified Purchase Rate: 0.0%
+   Rating Distribution: 1.0 stars: 1 reviews, 2.0 stars: 2 reviews
+
+34. Movie ID: B08713KH49
+   Review Count: 3
+   Average Rating: 4.00
+   Word Count Stats: 44-82 (avg: 66.7)
+   Total Helpful Votes: 15
+   Verified Purchase Rate: 66.7%
+   Rating Distribution: 3.0 stars: 1 reviews, 4.0 stars: 1 reviews, 5.0 stars: 1 reviews
+
+35. Movie ID: B00AXJIM7Q
+   Review Count: 3
+   Average Rating: 3.67
+   Word Count Stats: 30-85 (avg: 51.0)
+   Total Helpful Votes: 4
+   Verified Purchase Rate: 66.7%
+   Rating Distribution: 2.0 stars: 1 reviews, 4.0 stars: 1 reviews, 5.0 stars: 1 reviews
+
+36. Movie ID: B09KNV2HCH
+   Review Count: 2
+   Average Rating: 3.00
+   Word Count Stats: 33-65 (avg: 49.0)
+   Total Helpful Votes: 0
+   Verified Purchase Rate: 100.0%
+   Rating Distribution: 1.0 stars: 1 reviews, 5.0 stars: 1 reviews
+
+37. Movie ID: B009LSKHKA
+   Review Count: 2
+   Average Rating: 1.00
+   Word Count Stats: 33-89 (avg: 61.0)
+   Total Helpful Votes: 2
+   Verified Purchase Rate: 100.0%
+   Rating Distribution: 1.0 stars: 2 reviews
+
+38. Movie ID: B06WWJH49V
+   Review Count: 2
+   Average Rating: 3.00
+   Word Count Stats: 54-63 (avg: 58.5)
+   Total Helpful Votes: 2
+   Verified Purchase Rate: 100.0%
+   Rating Distribution: 1.0 stars: 1 reviews, 5.0 stars: 1 reviews
+
+39. Movie ID: B003E48U9M
+   Review Count: 2
+   Average Rating: 4.00
+   Word Count Stats: 33-61 (avg: 47.0)
+   Total Helpful Votes: 0
+   Verified Purchase Rate: 100.0%
+   Rating Distribution: 4.0 stars: 2 reviews
+
+40. Movie ID: B074N9R5JC
+   Review Count: 2
+   Average Rating: 4.50
+   Word Count Stats: 40-53 (avg: 46.5)
+   Total Helpful Votes: 0
+   Verified Purchase Rate: 0.0%
+   Rating Distribution: 4.0 stars: 1 reviews, 5.0 stars: 1 reviews
+
+41. Movie ID: B018HJYM3G
+   Review Count: 1
+   Average Rating: 1.00
+   Word Count Stats: 34-34 (avg: 34.0)
+   Total Helpful Votes: 0
+   Verified Purchase Rate: 100.0%
+   Rating Distribution: 1.0 stars: 1 reviews
+
+42. Movie ID: B00SXCRE42
+   Review Count: 1
+   Average Rating: 1.00
+   Word Count Stats: 35-35 (avg: 35.0)
+   Total Helpful Votes: 0
+   Verified Purchase Rate: 0.0%
+   Rating Distribution: 1.0 stars: 1 reviews
+
+43. Movie ID: B00BAQZCY2
+   Review Count: 1
+   Average Rating: 1.00
+   Word Count Stats: 51-51 (avg: 51.0)
+   Total Helpful Votes: 0
+   Verified Purchase Rate: 100.0%
+   Rating Distribution: 1.0 stars: 1 reviews
+
+44. Movie ID: B00B19FYOQ
+   Review Count: 1
+   Average Rating: 4.00
+   Word Count Stats: 33-33 (avg: 33.0)
+   Total Helpful Votes: 0
+   Verified Purchase Rate: 100.0%
+   Rating Distribution: 4.0 stars: 1 reviews
+
+45. Movie ID: B075SN3HKW
+   Review Count: 1
+   Average Rating: 1.00
+   Word Count Stats: 88-88 (avg: 88.0)
+   Total Helpful Votes: 0
+   Verified Purchase Rate: 0.0%
+   Rating Distribution: 1.0 stars: 1 reviews
+
+46. Movie ID: B01C8BP9Y0
+   Review Count: 1
+   Average Rating: 5.00
+   Word Count Stats: 49-49 (avg: 49.0)
+   Total Helpful Votes: 0
+   Verified Purchase Rate: 100.0%
+   Rating Distribution: 5.0 stars: 1 reviews
+
+47. Movie ID: B07W1B346P
+   Review Count: 1
+   Average Rating: 5.00
+   Word Count Stats: 63-63 (avg: 63.0)
+   Total Helpful Votes: 0
+   Verified Purchase Rate: 0.0%
+   Rating Distribution: 5.0 stars: 1 reviews
+
+48. Movie ID: B00AUVPGMG
+   Review Count: 1
+   Average Rating: 2.00
+   Word Count Stats: 78-78 (avg: 78.0)
+   Total Helpful Votes: 0
+   Verified Purchase Rate: 100.0%
+   Rating Distribution: 2.0 stars: 1 reviews
+
+49. Movie ID: B07SKWC14V
+   Review Count: 1
+   Average Rating: 5.00
+   Word Count Stats: 79-79 (avg: 79.0)
+   Total Helpful Votes: 0
+   Verified Purchase Rate: 0.0%
+   Rating Distribution: 5.0 stars: 1 reviews
+
+50. Movie ID: B08HVZ3BYH
+   Review Count: 1
+   Average Rating: 5.00
+   Word Count Stats: 30-30 (avg: 30.0)
+   Total Helpful Votes: 0
+   Verified Purchase Rate: 100.0%
+   Rating Distribution: 5.0 stars: 1 reviews
+
+51. Movie ID: B07H92XX1F
+   Review Count: 1
+   Average Rating: 5.00
+   Word Count Stats: 49-49 (avg: 49.0)
+   Total Helpful Votes: 0
+   Verified Purchase Rate: 0.0%
+   Rating Distribution: 5.0 stars: 1 reviews
+
+================================================================================
+REPORT COMPLETE
+================================================================================

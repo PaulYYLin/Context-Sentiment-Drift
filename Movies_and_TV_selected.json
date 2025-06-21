@@ -1,0 +1,1073 @@
+{
+  "total_count": 60,
+  "selection_criteria": {
+    "rating_number": "> 500",
+    "rating_distribution": {
+      "low (1.0-2.5)": 20,
+      "medium (3.0-4.0)": 20,
+      "high (4.5-5.0)": 20
+    }
+  },
+  "movies": [
+    {
+      "id": 1,
+      "title": "Battle Earth",
+      "average_rating": 2.3,
+      "rating_number": 709,
+      "categories": [
+        "Movies & TV",
+        "Independently Distributed",
+        "Action & Adventure"
+      ],
+      "description": [
+        "Confirmation of extraterrestrial life appears on television screens across the world as a massive spacecraft breaks through the atmosphere on a crash course into the Atlantic Ocean. A young paramedic, Greg Baker, signs up to fight for his planet against the invaders. Baker joins Special Forces members as the squad medic as they escort a classified package by chopper over enemy territory. When their chopper is shot down they find themselves surrounded and outnumbered. Desperate to return to his wife's side and haunted by nightmares, Baker find that his role in the war has quickly become much larger than he could have ever imagined. The mysterious package may be the key to turning the tide of the war, and possibly to saving all of humanity, but Baker must decide whether to protect it or sacrifice it to ensure his own survival."
+      ],
+      "main_category": "Movies & TV",
+      "parent_asin": "B00BTFK07I",
+      "features": [],
+      "details": "{\"Format\": \"Multiple Formats, Color, Dolby, NTSC, Widescreen\", \"Contributor\": \"Gin Fedotov, Grayson Ogle, Ryan Hatt, Aaron Kurmey, Jon Macburnie, Adam Munro, Kevin Johnson\", \"Language\": \"English\", \"Runtime\": \"1 hour and 25 minutes\", \"MPAA rating\": \"Unrated (Not Rated)\", \"Product Dimensions\": \"0.7 x 7.5 x 5.4 inches; 2.72 Ounces\", \"Director\": \"Aaron Kurmey\", \"Media Format\": \"Multiple Formats, Color, Dolby, NTSC, Widescreen\", \"Run time\": \"1 hour and 25 minutes\", \"Release date\": \"May 28, 2013\", \"Actors\": \"Adam Munro, Gin Fedotov, Grayson Ogle, Jon Macburnie, Kevin Johnson\", \"Studio\": \"Inception\", \"Number of discs\": \"1\"}"
+    },
+    {
+      "id": 2,
+      "title": "The Neon Demon",
+      "average_rating": 2.5,
+      "rating_number": 2963,
+      "categories": [
+        "Suspense",
+        "Horror",
+        "Downbeat",
+        "Emotional"
+      ],
+      "description": [
+        "When aspiring model Jesse moves to Los Angeles, her youth and vitality are devoured by a group of a beauty-obsessed women who will use any means necessary to get what she has."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B01GU8CL5C",
+      "features": [
+        "IMDb 6.1",
+        "1 h 57 min",
+        "2016",
+        "X-Ray",
+        "UHD",
+        "R"
+      ],
+      "details": "{\"Content advisory\": [\"Nudity\", \"violence\", \"alcohol use\", \"smoking\", \"foul language\", \"sexual content\"], \"Audio languages\": [\"English Dialogue Boost: Low\", \"English Dialogue Boost: High\", \"English\", \"English Dialogue Boost: Medium\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Nicolas Winding Refn\"], \"Producers\": [\"Lene B\\u00f8rglum\", \"Space Rocket Nation ApS\"], \"Starring\": [\"Elle Fanning\", \"Jena Malone\", \"Abbey Lee\"]}"
+    },
+    {
+      "id": 3,
+      "title": "Battle Earth",
+      "average_rating": 2.3,
+      "rating_number": 709,
+      "categories": [
+        "Science Fiction",
+        "Action",
+        "Military and War"
+      ],
+      "description": [
+        "During an alien invasion of Earth,a young paramedic signs up to fight for his planet against the invaders but when his chopper goes down behind enemy lines the real war begins"
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B00DKIH7PU",
+      "features": [
+        "IMDb 2.3",
+        "1 h 25 min",
+        "2013",
+        "X-Ray",
+        "18+"
+      ],
+      "details": "{\"Subtitles\": [\"None available\"], \"Directors\": [\"Aaron Kurmey\"], \"Producers\": [\"Aaron Kurmey\", \"Kevin Johnson\", \"Ryan Hatt\"], \"Starring\": [\"Adam Munro\", \"Gin Fedotov\", \"Grayson Ogle\"]}"
+    },
+    {
+      "id": 4,
+      "title": "Borat’s American Lockdown & Debunking Borat",
+      "average_rating": 2.3,
+      "rating_number": 837,
+      "categories": [
+        "Comedy",
+        "Talk Show and Variety",
+        "Documentary"
+      ],
+      "description": [
+        "Live the real-life drama of Sacha Baron Cohen, as Borat Sagdivev, where he spends five days at the peak of the Covid-19 pandemic with two conspiracy theorists.  \n\nThen, in Debunking Borat, see the two conspiracy theorists have their theories debunked by some of the world’s leading experts."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B093JXP1G7",
+      "features": [
+        "IMDb 5.6",
+        "2021",
+        "7 episodes",
+        "X-Ray",
+        "HDR",
+        "UHD",
+        "TV-MA"
+      ],
+      "details": "{\"Content advisory\": [\"Violence\", \"alcohol use\", \"foul language\", \"sexual content\"], \"Audio languages\": [\"English Dialogue Boost: High\", \"English\", \"English [Audio Description]\", \"English Dialogue Boost: Medium\", \"English Dialogue Boost: Low\", \"Italiano\", \"\\u65e5\\u672c\\u8a9e\", \"Portugu\\u00eas\", \"Deutsch\", \"Espa\\u00f1ol (Espa\\u00f1a)\", \"Espa\\u00f1ol (Latinoam\\u00e9rica)\", \"Polski\", \"\\u010ce\\u0161tina\", \"Magyar\", \"Fran\\u00e7ais\"], \"Subtitles\": [\"English [CC]\", \"\\u010ce\\u0161tina\", \"Dansk\", \"Deutsch\", \"\\u0395\\u03bb\\u03bb\\u03b7\\u03bd\\u03b9\\u03ba\\u03ac\", \"Espa\\u00f1ol (Latinoam\\u00e9rica)\", \"Espa\\u00f1ol (Espa\\u00f1a)\", \"Suomi\", \"Filipino\", \"Fran\\u00e7ais\", \"\\u05e2\\u05d1\\u05e8\\u05d9\\u05ea\", \"\\u0939\\u093f\\u0928\\u094d\\u0926\\u0940\", \"Magyar\", \"Indonesia\", \"Italiano\", \"\\u65e5\\u672c\\u8a9e\", \"\\ud55c\\uad6d\\uc5b4\", \"Bahasa Melayu\", \"Norsk Bokm\\u00e5l\", \"Nederlands\", \"Polski\", \"Portugu\\u00eas (Brasil)\", \"Portugu\\u00eas (Portugal)\", \"Rom\\u00e2n\\u0103\", \"\\u0420\\u0443\\u0441\\u0441\\u043a\\u0438\\u0439\", \"Svenska\", \"\\u0ba4\\u0bae\\u0bbf\\u0bb4\\u0bcd\", \"\\u0c24\\u0c46\\u0c32\\u0c41\\u0c17\\u0c41\", \"\\u0e44\\u0e17\\u0e22\", \"\\u4e2d\\u6587\\uff08\\u7b80\\u4f53\\uff09\", \"\\u4e2d\\u6587\\uff08\\u7e41\\u9ad4\\uff09\"], \"Directors\": [\"Kahane Cooperman\"], \"Producers\": [\"Sacha Baron Cohen\", \"Dan Cogan\", \"Liz Garbus\", \"Monica Levinson\"], \"Starring\": [\"Sacha Baron Cohen\", \"Maria Bakalova\"]}"
+    },
+    {
+      "id": 5,
+      "title": null,
+      "average_rating": 2.3,
+      "rating_number": 836,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B093K6VPXX",
+      "features": null,
+      "details": "{\"Content advisory\": [\"Violence\", \"alcohol use\", \"foul language\", \"sexual content\"], \"Audio languages\": [\"English Dialogue Boost: High\", \"English\", \"English [Audio Description]\", \"English Dialogue Boost: Medium\", \"English Dialogue Boost: Low\", \"Italiano\", \"\\u65e5\\u672c\\u8a9e\", \"Portugu\\u00eas\", \"Deutsch\", \"Espa\\u00f1ol (Espa\\u00f1a)\", \"Espa\\u00f1ol (Latinoam\\u00e9rica)\", \"Polski\", \"\\u010ce\\u0161tina\", \"Magyar\", \"Fran\\u00e7ais\"], \"Subtitles\": [\"English [CC]\", \"\\u010ce\\u0161tina\", \"Dansk\", \"Deutsch\", \"\\u0395\\u03bb\\u03bb\\u03b7\\u03bd\\u03b9\\u03ba\\u03ac\", \"Espa\\u00f1ol (Latinoam\\u00e9rica)\", \"Espa\\u00f1ol (Espa\\u00f1a)\", \"Suomi\", \"Filipino\", \"Fran\\u00e7ais\", \"\\u05e2\\u05d1\\u05e8\\u05d9\\u05ea\", \"\\u0939\\u093f\\u0928\\u094d\\u0926\\u0940\", \"Magyar\", \"Indonesia\", \"Italiano\", \"\\u65e5\\u672c\\u8a9e\", \"\\ud55c\\uad6d\\uc5b4\", \"Bahasa Melayu\", \"Norsk Bokm\\u00e5l\", \"Nederlands\", \"Polski\", \"Portugu\\u00eas (Brasil)\", \"Portugu\\u00eas (Portugal)\", \"Rom\\u00e2n\\u0103\", \"\\u0420\\u0443\\u0441\\u0441\\u043a\\u0438\\u0439\", \"Svenska\", \"\\u0ba4\\u0bae\\u0bbf\\u0bb4\\u0bcd\", \"\\u0c24\\u0c46\\u0c32\\u0c41\\u0c17\\u0c41\", \"\\u0e44\\u0e17\\u0e22\", \"\\u4e2d\\u6587\\uff08\\u7b80\\u4f53\\uff09\", \"\\u4e2d\\u6587\\uff08\\u7e41\\u9ad4\\uff09\"], \"Directors\": [\"Kahane Cooperman\"], \"Producers\": [\"Sacha Baron Cohen\", \"Dan Cogan\", \"Liz Garbus\", \"Monica Levinson\"], \"Starring\": [\"Sacha Baron Cohen\", \"Maria Bakalova\"]}"
+    },
+    {
+      "id": 6,
+      "title": null,
+      "average_rating": 2.0,
+      "rating_number": 3068,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B01I24FZ1Y",
+      "features": null,
+      "details": "{\"Content advisory\": [\"Violence\", \"smoking\", \"foul language\", \"sexual content\"], \"Audio languages\": [\"English Dialogue Boost: High\", \"English\", \"English Dialogue Boost: Medium\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Todd Solondz\"], \"Producers\": [\"David Distenfeld\", \"Megan Ellison\", \"David Hinojosa\", \"Jillian Longnecker\", \"Derrick Tseng\", \"Christine Vachon\"], \"Starring\": [\"Keaton Nigel Cooke\", \"Tracy Letts\", \"Julie Delpy\"]}"
+    },
+    {
+      "id": 7,
+      "title": null,
+      "average_rating": 2.0,
+      "rating_number": 726,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B00OHCJ0AS",
+      "features": null,
+      "details": "{\"Subtitles\": [\"None available\"], \"Directors\": [\"Anthony D.P. Mann\"], \"Producers\": [\"Anthony D.P. Mann\"], \"Starring\": [\"Anthony D.P. Mann\", \"Terry Wade\", \"Richard Kerr\"]}"
+    },
+    {
+      "id": 8,
+      "title": null,
+      "average_rating": 2.0,
+      "rating_number": 726,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B018HJYM3G",
+      "features": null,
+      "details": "{\"Subtitles\": [\"None available\"], \"Directors\": [\"Anthony D.P. Mann\"], \"Producers\": [\"Anthony D.P. Mann\"], \"Starring\": [\"Anthony D.P. Mann\", \"Terry Wade\", \"Richard Kerr\"]}"
+    },
+    {
+      "id": 9,
+      "title": null,
+      "average_rating": 2.5,
+      "rating_number": 645,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B00RHRJKWS",
+      "features": null,
+      "details": "{\"Subtitles\": [\"None available\"], \"Directors\": [\"Patrick Canning\"], \"Producers\": [\"James de Ciutiis\", \"Patrick Canning\"], \"Starring\": [\"Clare Fogerty\", \"Eric Newsome\", \"Jonathan Lipow\"]}"
+    },
+    {
+      "id": 10,
+      "title": null,
+      "average_rating": 2.3,
+      "rating_number": 558,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B09KNV2HCH",
+      "features": null,
+      "details": "{\"Content advisory\": [\"Violence\", \"alcohol use\", \"sexual content\"], \"Audio languages\": [\"English\", \"Espa\\u00f1ol\", \"Portugu\\u00eas\"], \"Subtitles\": [\"English [CC]\", \"Espa\\u00f1ol\", \"Portugu\\u00eas\"], \"Directors\": [\"Abel Ferrara\"], \"Producers\": [\"Diana Phillips\"], \"Starring\": [\"Cristina Chiriac\", \"Valerio Mastandrea\", \"Ethan Hawke\"]}"
+    },
+    {
+      "id": 11,
+      "title": null,
+      "average_rating": 2.4,
+      "rating_number": 1352,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B00QROFP4E",
+      "features": null,
+      "details": "{\"Content advisory\": [\"Nudity\", \"violence\", \"alcohol use\", \"smoking\", \"foul language\", \"sexual content\"], \"Subtitles\": [\"None available\"], \"Directors\": [\"Greg Carter\"], \"Producers\": [\"Datari Turner\", \"Gordon Bijelonic\", \"Michael Becker\"], \"Starring\": [\"Carmen Electra\", \"Briana Evigan\", \"Ali Cobrin\"], \"Studio\": [\"Phase 4 Films\"]}"
+    },
+    {
+      "id": 12,
+      "title": null,
+      "average_rating": 2.5,
+      "rating_number": 645,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B00RHSZ2EM",
+      "features": null,
+      "details": "{\"Subtitles\": [\"None available\"], \"Directors\": [\"Patrick Canning\"], \"Producers\": [\"James de Ciutiis\", \"Patrick Canning\"], \"Starring\": [\"Clare Fogerty\", \"Eric Newsome\", \"Jonathan Lipow\"], \"Studio\": [\"Mind's Eye Studios LLC\"]}"
+    },
+    {
+      "id": 13,
+      "title": null,
+      "average_rating": 2.0,
+      "rating_number": 3068,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B01GU87FNA",
+      "features": null,
+      "details": "{\"Content advisory\": [\"Violence\", \"smoking\", \"foul language\", \"sexual content\"], \"Audio languages\": [\"English Dialogue Boost: High\", \"English\", \"English Dialogue Boost: Medium\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Todd Solondz\"], \"Producers\": [\"David Distenfeld\", \"Megan Ellison\", \"David Hinojosa\", \"Jillian Longnecker\", \"Derrick Tseng\", \"Christine Vachon\"], \"Starring\": [\"Keaton Nigel Cooke\", \"Tracy Letts\", \"Julie Delpy\"], \"Studio\": [\"Amazon Studios\"]}"
+    },
+    {
+      "id": 14,
+      "title": null,
+      "average_rating": 2.5,
+      "rating_number": 645,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B00RHRJR76",
+      "features": null,
+      "details": "{\"Subtitles\": [\"None available\"], \"Directors\": [\"Patrick Canning\"], \"Producers\": [\"James de Ciutiis\", \"Patrick Canning\"], \"Starring\": [\"Clare Fogerty\", \"Eric Newsome\", \"Jonathan Lipow\"], \"Studio\": [\"Mind's Eye Studios LLC\"]}"
+    },
+    {
+      "id": 15,
+      "title": null,
+      "average_rating": 2.3,
+      "rating_number": 709,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B00DKGWLGM",
+      "features": null,
+      "details": "{\"Subtitles\": [\"None available\"], \"Directors\": [\"Aaron Kurmey\"], \"Producers\": [\"Aaron Kurmey\", \"Kevin Johnson\", \"Ryan Hatt\"], \"Starring\": [\"Adam Munro\", \"Gin Fedotov\", \"Grayson Ogle\"], \"Studio\": [\"Inception Media Group\"]}"
+    },
+    {
+      "id": 16,
+      "title": null,
+      "average_rating": 2.2,
+      "rating_number": 686,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B07788T9XJ",
+      "features": null,
+      "details": "{\"Subtitles\": [\"None available\"], \"Directors\": [\"Matthew Campea\"], \"Producers\": [\"Robin Benger\", \"Gina Simone\", \"Christopher Sumpton\"], \"Studio\": [\"XiveTV; Xive TV; MagellanTV; Magellan TV\"]}"
+    },
+    {
+      "id": 17,
+      "title": null,
+      "average_rating": 2.2,
+      "rating_number": 670,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B00SXCRE42",
+      "features": null,
+      "details": "{\"Subtitles\": [\"None available\"], \"Directors\": [\"Ana Grillo\", \"Beth Nelsen\"], \"Producers\": [\"Ana Blue Grillo\", \"Beth Nelsen\"], \"Starring\": [\"---\"], \"Studio\": [\"Indie Crush\"]}"
+    },
+    {
+      "id": 18,
+      "title": null,
+      "average_rating": 2.5,
+      "rating_number": 2635,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B00V0IUG5U",
+      "features": null,
+      "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Larry Brand\"], \"Producers\": [\"James Carpenter\", \"Dan Purjes\", \"Rebecca Reynolds\", \"Gary Sales\", \"Ross Satterwhite\"], \"Starring\": [\"Henry Ian Cusick\", \"Stephen Lang\", \"Nicki Aycox\"], \"Studio\": [\"Monterey Media\"]}"
+    },
+    {
+      "id": 19,
+      "title": null,
+      "average_rating": 2.5,
+      "rating_number": 2635,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B00V3VTNY4",
+      "features": null,
+      "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Larry Brand\"], \"Producers\": [\"James Carpenter\", \"Dan Purjes\", \"Rebecca Reynolds\", \"Gary Sales\", \"Ross Satterwhite\"], \"Starring\": [\"Henry Ian Cusick\", \"Stephen Lang\", \"Nicki Aycox\"], \"Studio\": [\"Monterey Media\"]}"
+    },
+    {
+      "id": 20,
+      "title": null,
+      "average_rating": 2.0,
+      "rating_number": 3067,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B08J98LGPS",
+      "features": null,
+      "details": "{\"Content advisory\": [\"Violence\", \"smoking\", \"foul language\", \"sexual content\"], \"Audio languages\": [\"English Dialogue Boost: High\", \"English\", \"English Dialogue Boost: Medium\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Todd Solondz\"], \"Producers\": [\"David Distenfeld\", \"Megan Ellison\", \"David Hinojosa\", \"Jillian Longnecker\", \"Derrick Tseng\", \"Christine Vachon\"], \"Starring\": [\"Keaton Nigel Cooke\", \"Tracy Letts\", \"Julie Delpy\"], \"Studio\": [\"Amazon Studios\"]}"
+    },
+    {
+      "id": 21,
+      "title": "I Give It a Year",
+      "average_rating": 3.7,
+      "rating_number": 807,
+      "categories": [
+        "Movies & TV",
+        "Blu-ray",
+        "Movies"
+      ],
+      "description": [
+        "Directed by Dan Mazer. Starring Stephen Merchant, Rafe Spall, Rose Byrne."
+      ],
+      "main_category": "Movies & TV",
+      "parent_asin": "B00BAQZCY2",
+      "features": [],
+      "details": "{\"Aspect Ratio\": \"2.35:1\", \"MPAA rating\": \"Unrated (Not Rated)\", \"Product Dimensions\": \"6.81 x 5.43 x 0.63 inches; 3.53 Ounces\", \"Director\": \"Dan Mazer\", \"Media Format\": \"Import\", \"Release date\": \"June 4, 2013\", \"Actors\": \"Anna Faris, Rafe Spall, Rose Byrne, Stephen Merchant, Simon Baker\", \"Producers\": \"Tim Bevan, Eric Fellner, Kris Thykier\", \"Studio\": \"IMPORTS\", \"Number of discs\": \"1\"}"
+    },
+    {
+      "id": 22,
+      "title": "Alien Conquest",
+      "average_rating": 3.0,
+      "rating_number": 1807,
+      "categories": [
+        "Action",
+        "Science Fiction",
+        "Fantastic",
+        "Harrowing"
+      ],
+      "description": [
+        "Sibling astronomers discover Martians are threatening to attack Earth, but no one believes them-until Martians land and nearly destroy all of New York City."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B08Y5GC6QW",
+      "features": [
+        "IMDb 2.7",
+        "1 h 27 min",
+        "2021",
+        "X-Ray",
+        "13+"
+      ],
+      "details": "{\"Content advisory\": [\"Violence\", \"foul language\"], \"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Mario N. Bonassin\"], \"Producers\": [\"David Michael Latt\"], \"Starring\": [\"Emily Killian\", \"Anthony Jensen\", \"Tom Sizemore\"]}"
+    },
+    {
+      "id": 23,
+      "title": "The Details",
+      "average_rating": 4.0,
+      "rating_number": 590,
+      "categories": [
+        "Comedy",
+        "Drama",
+        "Biting"
+      ],
+      "description": [
+        "Tobey Maguire, Elizabeth Banks star in this darkly funny comedy about how one perfect couple's small mistake leads to a wild chain of events involving extortion, sex and murder. Laura Linney, Kerry Washington, Ray Liotta round out the all-star cast."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B009LSKHKA",
+      "features": [
+        "IMDb 6.1",
+        "1 h 41 min",
+        "2012",
+        "X-Ray",
+        "R"
+      ],
+      "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Jacob Aaron Estes\"], \"Producers\": [\"Mark Gordon\", \"Hagai Shaham\", \"Bryan Zuriff\"], \"Starring\": [\"Tobey Maguire\", \"Elizabeth Banks\", \"Laura Linney\"]}"
+    },
+    {
+      "id": 24,
+      "title": "The Taking of Deborah Logan",
+      "average_rating": 3.9,
+      "rating_number": 3596,
+      "categories": [
+        "Suspense",
+        "Horror",
+        "Atmospheric",
+        "Eerie"
+      ],
+      "description": [
+        "An elderly woman battling Alzheimer's disease agrees to let a film crew document her condition, but what they discover is something far more sinister going on."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B07Z5GKVK2",
+      "features": [
+        "IMDb 6.0",
+        "1 h 30 min",
+        "2014",
+        "X-Ray",
+        "R"
+      ],
+      "details": "{\"Content advisory\": [\"Nudity\", \"violence\", \"frightening scenes\", \"alcohol use\", \"smoking\", \"foul language\"], \"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Adam Robitel\"], \"Producers\": [\"Rene Besson\", \"Christa Campbell\"], \"Starring\": [\"Jill Larson\", \"Anne Ramsay\", \"Michelle Ang\"]}"
+    },
+    {
+      "id": 25,
+      "title": "Empires",
+      "average_rating": 4.0,
+      "rating_number": 894,
+      "categories": [
+        "Historical",
+        "Documentary",
+        "Special Interest"
+      ],
+      "description": [
+        "Two thousand years ago, at the dawn of the first century, the ancient world was ruled by Rome. Through the experiences, memories and writings of the people who lived it, this series tells the story of that time - the emperors and slaves, poets and plebeians, who wrested order from chaos, built the most cosmopolitan society the world had ever seen and shaped the Roman empire in the first century A.D."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B0190U1K3Q",
+      "features": [
+        "IMDb 7.4",
+        "2001",
+        "2 episodes",
+        "13+"
+      ],
+      "details": "{\"Subtitles\": [\"None available\"], \"Directors\": [\"Lyn Goldfarb\", \"Margaret Koval\"], \"Producers\": [\"PBS\"]}"
+    },
+    {
+      "id": 26,
+      "title": "Ragnarok",
+      "average_rating": 3.9,
+      "rating_number": 579,
+      "categories": [
+        "Fantasy",
+        "Adventure",
+        "Compelling",
+        "Electrifying"
+      ],
+      "description": [
+        "An archaeologist is intrigued by an inscription on a Viking funeral ship. Sigurd believes this is the key to the myth of Ragnarok: the day when heaven and earth are destroyed. Sigurd, his kids and a colleague, set out to uncover the secret Ragnarok."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B00MQNHQTC",
+      "features": [
+        "IMDb 5.9",
+        "1 h 35 min",
+        "2013",
+        "X-Ray",
+        "PG-13"
+      ],
+      "details": "{\"Content advisory\": [\"Violence\", \"alcohol use\"], \"Audio languages\": [\"Norsk Bokm\\u00e5l\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Mikkel Br\\u00e6nne Sandemose\"], \"Producers\": [\"Martin Sundland\", \"Are Heidenstr\\u00f8m\"], \"Starring\": [\"P\\u00e5l Sverre Hagen\", \"Nicolai Cleve Broch\", \"Sofia Helin\"]}"
+    },
+    {
+      "id": 27,
+      "title": "Radioactive",
+      "average_rating": 3.3,
+      "rating_number": 1741,
+      "categories": [
+        "International",
+        "Romance",
+        "Edifying",
+        "Philosophical"
+      ],
+      "description": [
+        "Pioneer – Rebel – Genius | Don’t miss Rosamund Pike in the incredible, true-story of Marie Curie and her Nobel Prize-winning work that changed the world."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B08DK66KLR",
+      "features": [
+        "IMDb 6.2",
+        "1 h 49 min",
+        "2020",
+        "X-Ray",
+        "HDR",
+        "UHD",
+        "13+"
+      ],
+      "details": "{\"Content advisory\": [\"Nudity\", \"violence\", \"alcohol use\", \"smoking\", \"foul language\", \"sexual content\"], \"Audio languages\": [\"English Dialogue Boost: High\", \"English\", \"English [Audio Description]\", \"English Dialogue Boost: Medium\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Marjane Satrapi\"], \"Producers\": [\"Tim Bevan\", \"Paul Webster\"], \"Starring\": [\"Rosamund Pike\", \"Sam Riley\", \"Aneurin Barnard\"]}"
+    },
+    {
+      "id": 28,
+      "title": "Legend of Master Legend",
+      "average_rating": 3.7,
+      "rating_number": 1179,
+      "categories": [],
+      "description": [
+        "[Pilot Episode] THE LEGEND OF MASTER LEGEND is a dark comedy about the life of Master Legend - a real life superhero whose mission is the security and safety of the people of Las Vegas. Master Legend juggles the demands of justice with the even more complicated demands of his real family, who don't see him as a hero at all."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B06WWJH49V",
+      "features": [
+        "IMDb 6.2",
+        "2017",
+        "1 episode",
+        "X-Ray",
+        "TV-MA"
+      ],
+      "details": "{\"Subtitles\": [\"None available\"], \"Directors\": [\"James Ponsoldt\"], \"Producers\": [\"Micah Fitzerman-Blue\", \"Noah Harpster\", \"Youree Henley\", \"Joshuah Bearman\", \"Josh Davis\", \"David Klawans\"], \"Starring\": [\"John Hawkes\", \"Dawnn Lewis\", \"Anjelika Washington\"]}"
+    },
+    {
+      "id": 29,
+      "title": "Cats",
+      "average_rating": 3.2,
+      "rating_number": 1251,
+      "categories": [
+        "Animation",
+        "Kids",
+        "Cheerful",
+        "Sweet"
+      ],
+      "description": [
+        "Blanket (Dermot Mulroney) is an indoor cat who is too afraid to leave his apartment. But when his adventurous son, Cape, sets out to find a legendary cat paradise, Blanket must overcome his own fears and embark on the wildest ride of his life."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B082LTWDKD",
+      "features": [
+        "IMDb 4.8",
+        "1 h 30 min",
+        "2020",
+        "X-Ray",
+        "7+"
+      ],
+      "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Gary Wang\"], \"Producers\": [\"Yu Zhou\", \"Yuan Ye\"], \"Starring\": [\"Dermot Mulroney\", \"Nicole Tompkins\", \"Nick Guerra\"]}"
+    },
+    {
+      "id": 30,
+      "title": "Making The Cut",
+      "average_rating": 3.1,
+      "rating_number": 589,
+      "categories": [
+        "Unscripted"
+      ],
+      "description": [
+        "In the third season of Making the Cut, Heidi Klum and Tim Gunn welcome 10 established designers from around the world to Los Angeles, CA where they compete to become the next global fashion brand. Each week, winning looks and companion pieces will be available to buy on Amazon in the Making the Cut store, and the last designer standing will receive one million dollars to invest in their brand."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B0B5HP8KC5",
+      "features": [
+        "IMDb 6.7",
+        "2022",
+        "8 episodes",
+        "X-Ray",
+        "HDR",
+        "UHD",
+        "13+"
+      ],
+      "details": "{\"Content advisory\": [\"This program contains product placement\", \"flashing lights\", \"nudity\", \"alcohol use\", \"smoking\", \"foul language\", \"sexual content\"], \"Audio languages\": [\"English Dialogue Boost: High\", \"English\", \"English [Audio Description]\", \"English Dialogue Boost: Medium\"], \"Subtitles\": [\"English [CC]\", \"\\u0627\\u0644\\u0639\\u0631\\u0628\\u064a\\u0629\", \"\\u010ce\\u0161tina\", \"Dansk\", \"Deutsch\", \"\\u0395\\u03bb\\u03bb\\u03b7\\u03bd\\u03b9\\u03ba\\u03ac\", \"Espa\\u00f1ol (Latinoam\\u00e9rica)\", \"Espa\\u00f1ol (Espa\\u00f1a)\", \"Suomi\", \"Filipino\", \"Fran\\u00e7ais\", \"\\u05e2\\u05d1\\u05e8\\u05d9\\u05ea\", \"\\u0939\\u093f\\u0928\\u094d\\u0926\\u0940\", \"Magyar\", \"Indonesia\", \"Italiano\", \"\\u65e5\\u672c\\u8a9e\", \"\\ud55c\\uad6d\\uc5b4\", \"Bahasa Melayu\", \"Norsk Bokm\\u00e5l\", \"Nederlands\", \"Polski\", \"Portugu\\u00eas (Brasil)\", \"Portugu\\u00eas (Portugal)\", \"Rom\\u00e2n\\u0103\", \"\\u0420\\u0443\\u0441\\u0441\\u043a\\u0438\\u0439\", \"Svenska\", \"\\u0ba4\\u0bae\\u0bbf\\u0bb4\\u0bcd\", \"\\u0c24\\u0c46\\u0c32\\u0c41\\u0c17\\u0c41\", \"\\u0e44\\u0e17\\u0e22\", \"T\\u00fcrk\\u00e7e\", \"\\u4e2d\\u6587\\uff08\\u7b80\\u4f53\\uff09\", \"\\u4e2d\\u6587\\uff08\\u7e41\\u9ad4\\uff09\"], \"Directors\": [\"Ramy Romany\"], \"Producers\": [\"Heidi Klum\", \"Tim Gunn\", \"Sara Rea\", \"Sue Kinkead\", \"Jennifer Love\"], \"Starring\": [\"Heidi Klum\", \"Tim Gunn\", \"Nicole Richie\"]}"
+    },
+    {
+      "id": 31,
+      "title": null,
+      "average_rating": 4.0,
+      "rating_number": 1585,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B07BKQZ9GQ",
+      "features": null,
+      "details": "{\"Content advisory\": [\"Violence\", \"alcohol use\", \"foul language\", \"sexual content\"], \"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"David Gelb\"], \"Producers\": [\"Jason Blum\", \"Matthew Kaplan\", \"Jimmy Miller\", \"Cody Zwieg\"], \"Starring\": [\"Mark Duplass\", \"Olivia Wilde\", \"Sarah Bolger\"]}"
+    },
+    {
+      "id": 32,
+      "title": null,
+      "average_rating": 3.8,
+      "rating_number": 564,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B00HR0P9XE",
+      "features": null,
+      "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Ben Wheatley\"], \"Producers\": [\"Antonio Gould\", \"Anna Higgs\", \"Claire Jones\", \"Andrew Starke\", \"Pete Tombs\"], \"Starring\": [\"Julian Barratt\", \"Reece Shearsmith\", \"Michael Smiley\"]}"
+    },
+    {
+      "id": 33,
+      "title": null,
+      "average_rating": 3.2,
+      "rating_number": 780,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B009GL1QHU",
+      "features": null,
+      "details": "{\"Content advisory\": [\"Nudity\", \"alcohol use\", \"smoking\", \"foul language\", \"sexual content\"], \"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Pascal Arnold\", \"Jean-Marc Barr\"], \"Producers\": [\"Pascal Arnold\"], \"Starring\": [\"Mathias Melloul\", \"Adeline Rebeillard\", \"Val\\u00e9rie Maes\"]}"
+    },
+    {
+      "id": 34,
+      "title": null,
+      "average_rating": 4.0,
+      "rating_number": 628,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B00B19FYOQ",
+      "features": null,
+      "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"None available\"], \"Directors\": [\"Benoit Jacquot\"], \"Producers\": [\"Jean-Pierre Gu\\u00e9rin\"], \"Starring\": [\"L\\u00e9a Seydoux\", \"Diane Kruger\", \"Virginie Ledoyen\"]}"
+    },
+    {
+      "id": 35,
+      "title": null,
+      "average_rating": 3.9,
+      "rating_number": 3244,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B08713KH49",
+      "features": null,
+      "details": "{\"Content advisory\": [\"Violence\", \"foul language\"], \"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Eric Demeusy\"], \"Producers\": [\"Eric Demeusy\", \"Rhonda Alani\", \"Andrea Dondanville\", \"Matthew Helderman\", \"Rj Hendricks\", \"Andrew J. Keller\", \"Les Keller\", \"Ryan Keller\", \"Eugene Kolodin\", \"Kyle McIntyre\"], \"Starring\": [\"Ryan Masson\", \"Highdee Kuan\", \"Shaw Jones\"]}"
+    },
+    {
+      "id": 36,
+      "title": null,
+      "average_rating": 3.5,
+      "rating_number": 952,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B077FFCKWD",
+      "features": null,
+      "details": "{\"Content advisory\": [\"Violence\", \"alcohol use\", \"foul language\", \"sexual content\"], \"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Cathryn Michon\", \"Guy Shalem\"], \"Producers\": [\"Derek Anderson\", \"W. Bruce Cameron\", \"Victor Kubicek\"], \"Starring\": [\"Cathryn Michon\", \"Wendi McLendon-Covey\", \"Melissa McCarthy\"]}"
+    },
+    {
+      "id": 37,
+      "title": null,
+      "average_rating": 3.7,
+      "rating_number": 1621,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B094S64YJ5",
+      "features": null,
+      "details": "{\"Audio languages\": [\"English\", \"English [Audio Description]\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"David Charbonier\"], \"Producers\": [\"Ryan Scaringe\", \"Meghan Weinstein\", \"Carter Armstrong\"], \"Starring\": [\"Ezra Dewey\", \"Rob Browstein\", \"Tevy Poe\"]}"
+    },
+    {
+      "id": 38,
+      "title": null,
+      "average_rating": 3.8,
+      "rating_number": 18974,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B0849Q3KKF",
+      "features": null,
+      "details": "{\"Content advisory\": [\"Violence\", \"alcohol use\", \"foul language\"], \"Audio languages\": [\"English\", \"English [Audio Description]\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Osgood Perkins\"]}"
+    },
+    {
+      "id": 39,
+      "title": null,
+      "average_rating": 3.9,
+      "rating_number": 1248,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B00AXJIM7Q",
+      "features": null,
+      "details": "{\"Content advisory\": [\"Nudity\", \"violence\", \"substance use\", \"alcohol use\", \"smoking\", \"foul language\"], \"Audio languages\": [\"English\", \"English [Audio Description]\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Craig Zobel\"], \"Producers\": [\"Sophia Linn\", \"Lisa Muskat\", \"Tyler Davidson\", \"Theo Sena\"], \"Starring\": [\"Ann Dowd\", \"Dreama Walker\", \"Pat Healy\"]}"
+    },
+    {
+      "id": 40,
+      "title": null,
+      "average_rating": 4.0,
+      "rating_number": 1376,
+      "categories": null,
+      "description": null,
+      "main_category": "Prime Video",
+      "parent_asin": "B005DD7Q9M",
+      "features": null,
+      "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Andrew Traucki\"], \"Producers\": [\"Andrew Traucki\", \"Michael Baskin\", \"Richard Goldberg\", \"Richard S. Guardian\", \"Janine Pearce\", \"Michael Robertson\", \"Tiare Tomaszewski\", \"Dean Toovey\"], \"Starring\": [\"Damian Walshe-Howling\", \"Gyton Grantley\", \"Adrienne Pickering\"]}"
+    },
+    {
+      "id": 41,
+      "title": "Glee",
+      "average_rating": 4.7,
+      "rating_number": 2004,
+      "categories": [
+        "Comedy",
+        "Drama",
+        "Arts, Entertainment, and Culture",
+        "Music Videos and Concerts"
+      ],
+      "description": [
+        "Entering its fourth season, this year the members of New Directions compete amongst themselves to be the \"new Rachel\" and hold auditions to find new students. Meanwhile, the graduating class leaves the comforts of McKinley where Rachel struggles to please her demanding NYADA teacher (Kate Hudson) and Kurt second-guesses his decision to stay in Lima. Four newcomers also join the musical comedy."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B00ABWKL3I",
+      "features": [
+        "IMDb 6.8",
+        "2013",
+        "22 episodes",
+        "X-Ray",
+        "TV-14"
+      ],
+      "details": "{\"Content advisory\": [\"Violence\", \"substance use\", \"alcohol use\", \"smoking\", \"foul language\", \"sexual content\"], \"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Bradley Buecker\", \"Brad Falchuk\", \"Eric Stoltz\", \"Paris Barclay\", \"Ian Brennan\", \"Ryan Murphy\", \"Alfonso Gomez-Rejon\", \"Elodie Keene\", \"Adam Shankman\", \"Paul McCrane\"]}"
+    },
+    {
+      "id": 42,
+      "title": "Rise of the Planet of the Apes",
+      "average_rating": 4.7,
+      "rating_number": 14829,
+      "categories": [
+        "Movies & TV",
+        "Genre for Featured Categories",
+        "Action & Adventure"
+      ],
+      "description": [
+        "While attempting to find a cure for Alzheimer's disease scientists create a genetically-enhanced chimpanzee. His name is Caesar and he uses his greater intelligence to lead other apes to freedom. A reboot to the classic Planet of the Apes series."
+      ],
+      "main_category": "Movies & TV",
+      "parent_asin": "B006LM6P0K",
+      "features": [],
+      "details": "{\"Genre\": \"Action & Adventure, Science Fiction\", \"Contributor\": \"Andy Serkis, Freida Pinto, John Lithgow, Rupert Wyatt, James Franco, Brian Cox\", \"Runtime\": \"1 hour and 45 minutes\", \"Is Discontinued By Manufacturer\": \"No\", \"MPAA rating\": \"PG-13 (Parents Strongly Cautioned)\", \"Package Dimensions\": \"7.5 x 5.3 x 0.6 inches; 2.4 Ounces\", \"Director\": \"Rupert Wyatt\", \"Run time\": \"1 hour and 45 minutes\", \"Actors\": \"James Franco, Andy Serkis, Freida Pinto, John Lithgow, Brian Cox\", \"Studio\": \"20th Century Fox\"}"
+    },
+    {
+      "id": 43,
+      "title": "Curious George: Royal Monkey",
+      "average_rating": 4.7,
+      "rating_number": 741,
+      "categories": [
+        "Kids",
+        "Charming",
+        "Joyous"
+      ],
+      "description": [
+        "Join your favorite monkey as he takes on his most regal role yet, trading places with a royal monkey!"
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B07X51PNGY",
+      "features": [
+        "IMDb 5.2",
+        "1 h 26 min",
+        "2019",
+        "G"
+      ],
+      "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Doug Murphy\"], \"Producers\": [\"Deirdre Brenner\"], \"Starring\": [\"Frank Welker\", \"Jeff Bennett\", \"Daniela Bobadilla\"]}"
+    },
+    {
+      "id": 44,
+      "title": "Haven",
+      "average_rating": 4.7,
+      "rating_number": 726,
+      "categories": [
+        "Science Fiction",
+        "Fantasy"
+      ],
+      "description": [
+        "Season Five picks up with the aftermath of our heroes' victory over William. After having successfully banished him into the Void, Nathan and Duke are devastated to discover that the Audrey Parker they know and love has disappeared."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B01944HZFK",
+      "features": [
+        "IMDb 7.5",
+        "2015",
+        "29 episodes",
+        "X-Ray",
+        "TV-14"
+      ],
+      "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Shawn Piller\", \"T.W. Peacocke\", \"Lee Rose\", \"Robert Lieberman\", \"Rick Bota\", \"Tim Southam\", \"Stephen Reynolds\", \"Paul Fox\", \"Grant Harvey\", \"Jeff Renfroe\"]}"
+    },
+    {
+      "id": 45,
+      "title": "The Texas Chain Saw Massacre",
+      "average_rating": 4.6,
+      "rating_number": 5917,
+      "categories": [
+        "Horror",
+        "Compelling",
+        "Frightening",
+        "Outlandish"
+      ],
+      "description": [
+        "A group of friends are terrorised by a chainsaw wielding madman and his depraved family in this legendary horror."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B003E48U9M",
+      "features": [
+        "IMDb 7.4",
+        "1 h 23 min",
+        "1974",
+        "X-Ray",
+        "16+"
+      ],
+      "details": "{\"Content advisory\": [\"Violence\", \"alcohol use\", \"smoking\", \"foul language\"], \"Audio languages\": [\"English\"], \"Subtitles\": [\"None available\"], \"Directors\": [\"Tobe Hooper\"], \"Producers\": [\"Tobe Hooper\"], \"Starring\": [\"Marilyn Burns\", \"Allen Danziger\", \"Paul A. Partain\"]}"
+    },
+    {
+      "id": 46,
+      "title": "Batman: Gotham By Gaslight",
+      "average_rating": 4.5,
+      "rating_number": 2567,
+      "categories": [
+        "Adventure",
+        "Action"
+      ],
+      "description": [
+        "It's Batman vs. Jack the Ripper in an Elseworld's adventure that imagines the Dark Knight over a hundred years ago in a turn-of-the-century Gotham."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B075SN3HKW",
+      "features": [
+        "1 h 17 min",
+        "2017",
+        "R"
+      ],
+      "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Sam Liu\"], \"Producers\": [\"Bruce Timm\"], \"Starring\": [\"Bruce Greenwood\", \"Jennifer Carpenter\", \"Scott Patterson\"]}"
+    },
+    {
+      "id": 47,
+      "title": "Ink Master",
+      "average_rating": 4.6,
+      "rating_number": 1778,
+      "categories": [
+        "Unscripted"
+      ],
+      "description": [
+        "Twenty of the nation's top tattoo artists from the East, West, South and Midwest come together to rep their region and compete for the Ink Master title, a $100,000 cash prize and an editorial feature in Inked magazine."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B083LGV145",
+      "features": [
+        "IMDb 7.4",
+        "2020",
+        "15 episodes",
+        "X-Ray",
+        "TV-14"
+      ],
+      "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Paul Starkman\", \"Michael Wolf\", \"Tim Warren\", \"Matthew Bartley\", \"Lauren Quinn\", \"Craig Borders\"], \"Producers\": [\"John Brimhall\", \"Jamie Almeleh\", \"Jay Peterson\", \"Maryna Harrison\"], \"Starring\": [\"Dave Navarro\", \"Chris Nunez\", \"Oliver Peck\"]}"
+    },
+    {
+      "id": 48,
+      "title": "Trinity and Beyond - the Atomic Bomb Movie",
+      "average_rating": 4.7,
+      "rating_number": 924,
+      "categories": [
+        "Documentary",
+        "Military and War"
+      ],
+      "description": [
+        "Robert Oppenheimer chose to name the first atomic bomb the \"Trinity\" test, a name inspired by the poems of John Donne.  From that point in 1945, beginning in the deserts of New Mexico, atmospheric nuclear tests would continue for the next 17 years until the signing of the Nuclear Test Ban Treaty was signed in 1963.  Narrated by William Shatner. The Ultimate Film about Weapons of Mass Destruction!"
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B01C8BP9Y0",
+      "features": [
+        "1 h 40 min",
+        "1995",
+        "13+"
+      ],
+      "details": "{\"Content advisory\": [\"Violence\", \"smoking\"], \"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Peter Kuran\"], \"Starring\": [\"William Shatner\"]}"
+    },
+    {
+      "id": 49,
+      "title": "Posse",
+      "average_rating": 4.6,
+      "rating_number": 784,
+      "categories": [
+        "Young Adult Audience",
+        "Western",
+        "Gritty",
+        "Intense"
+      ],
+      "description": [
+        "There's action galore in this off-beat western style film that features a group of mostly black infantrymen who return from the Spanish-American War with a cache of gold. The men travel to the West where their leader searches for the men who lynched his father."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B0033CTKBC",
+      "features": [
+        "IMDb 5.5",
+        "1 h 51 min",
+        "1993",
+        "X-Ray",
+        "R"
+      ],
+      "details": "{\"Content advisory\": [\"Nudity\", \"violence\", \"alcohol use\", \"smoking\", \"foul language\", \"sexual content\"], \"Audio languages\": [\"English\", \"English [Audio Description]\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Mario Van Peebles\"], \"Producers\": [\"Tim Bevan\"], \"Starring\": [\"Mario Van Peebles\", \"Stephen Baldwin\", \"Tone Loc\"]}"
+    },
+    {
+      "id": 50,
+      "title": "Undercover Billionaire",
+      "average_rating": 4.6,
+      "rating_number": 624,
+      "categories": [],
+      "description": [
+        "Glenn Stearns is a self-made billionaire. He grew up poor in the sticks of Maryland and was just 14 years old when he became a father. A few years ago he sold his company for $2.2 billion. He believes if he can do it, anyone can. Now, Glenn is putting his money where his mouth is - in 90 days, he's going to partner with an unsuspecting but deserving candidate to help make them $1 million."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B07W1B346P",
+      "features": [
+        "2019",
+        "8 episodes",
+        "7+"
+      ],
+      "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"]}"
+    },
+    {
+      "id": 51,
+      "title": "Bryan Kest's Power Yoga",
+      "average_rating": 4.5,
+      "rating_number": 784,
+      "categories": [
+        "Special Interest"
+      ],
+      "description": [
+        "Get in shape like the stars with Bryan Kest, one of the most popular yoga instructors in Hollywood."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B00AUVPGMG",
+      "features": [
+        "IMDb 8.5",
+        "2004",
+        "3 episodes",
+        "7+"
+      ],
+      "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Randee St. Nicholas\"], \"Producers\": [\"John Hopgood\", \"Diane Sillan\"], \"Starring\": [\"Bryan Kest\"]}"
+    },
+    {
+      "id": 52,
+      "title": "Below Deck Mediterranean",
+      "average_rating": 4.7,
+      "rating_number": 786,
+      "categories": [],
+      "description": [
+        "Sandy may be navigating the \"Sirocco\" mega yacht again, but she brings a new level of leadership in season four."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B07SKWC14V",
+      "features": [
+        "2019",
+        "18 episodes",
+        "13+"
+      ],
+      "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Starring\": [\"Tiffany Copeland\", \"Julia d'Albert Pusey\", \"Hannah Ferrier\"]}"
+    },
+    {
+      "id": 53,
+      "title": "Mr Inbetween",
+      "average_rating": 4.6,
+      "rating_number": 925,
+      "categories": [],
+      "description": [
+        "The FX drama series Mr Inbetween centers on Ray Shoesmith. He’s a father, ex-husband, boyfriend, best friend – and a criminal for hire."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B07H4ZNPWD",
+      "features": [
+        "2018",
+        "6 episodes",
+        "TV-MA"
+      ],
+      "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"]}"
+    },
+    {
+      "id": 54,
+      "title": "Sharpe",
+      "average_rating": 4.5,
+      "rating_number": 516,
+      "categories": [],
+      "description": [
+        "The award-winning Sharpe returns for an action-packed swashbuckling special shot entirely on location in India. A year after the battle of Waterloo, dispatches from India warn that a local Maharaja is threatening British interests."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B074N9R5JC",
+      "features": [
+        "2006",
+        "1 episode",
+        "TV-MA"
+      ],
+      "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"]}"
+    },
+    {
+      "id": 55,
+      "title": "RWBY: Volume 7",
+      "average_rating": 4.9,
+      "rating_number": 2607,
+      "categories": [
+        "Animation"
+      ],
+      "description": [
+        "Enemies and allies will collide as Ruby, Weiss, Blake and Yang fight to stop Salem's forces, but banding together is dangerous when you don't know who you can trust."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B08HVZ3BYH",
+      "features": [
+        "IMDb 6.8",
+        "3 h 27 min",
+        "2020",
+        "13+"
+      ],
+      "details": "{\"Content advisory\": [\"Violence\", \"alcohol use\", \"foul language\"], \"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Paula Decanini\", \"Dustin Matthews\", \"Connor Pickens\", \"Kerry Shawcross\"], \"Producers\": [\"Joe Clary\"], \"Starring\": [\"Lindsay Jones\", \"Lindsay Jones\", \"Kara Eberle\"]}"
+    },
+    {
+      "id": 56,
+      "title": "DARK SIDE OF THE RING",
+      "average_rating": 4.8,
+      "rating_number": 587,
+      "categories": [],
+      "description": [
+        "Venturing deeper into wrestling's shrouded past, this season tackles the biggest stories from the last 40 years, with unprecedented access to a new cast of insiders who reveal the brutal and often tragic consequences of a life lived in the squared circle."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B0869PJ96F",
+      "features": [
+        "2020",
+        "10 episodes",
+        "TV-14"
+      ],
+      "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"]}"
+    },
+    {
+      "id": 57,
+      "title": "Ip Man",
+      "average_rating": 4.8,
+      "rating_number": 3850,
+      "categories": [
+        "Historical",
+        "International",
+        "Emotional",
+        "Exciting"
+      ],
+      "description": [
+        "Ip Man is the award winning film adaptation about the life story of Ip Man, the grand master of the Wing Chun style of kung fu and sifu (master) of legendary kung fu superstar Bruce Lee."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B085W3JNH7",
+      "features": [
+        "IMDb 7.5",
+        "1 h 46 min",
+        "2010",
+        "X-Ray",
+        "R"
+      ],
+      "details": "{\"Content advisory\": [\"Violence\", \"alcohol use\", \"smoking\", \"foul language\"], \"Audio languages\": [\"\\u4e2d\\u6587\"], \"Subtitles\": [\"English [CC]\"], \"Directors\": [\"Wilson Yip\"], \"Producers\": [\"Ann An\", \"Jun Gao\", \"Xin Lee\", \"Raymond Pak-Ming Wong\", \"Fan Yan-Mei\", \"Jing Ye\", \"Qiang-Hui Zheng\", \"Shu-Jie Zong\"], \"Starring\": [\"Donnie Yen\", \"Hiroyuki Ikeuchi\", \"Simon Yam\"]}"
+    },
+    {
+      "id": 58,
+      "title": "Black Butler: Book of Murder - Part 1",
+      "average_rating": 4.8,
+      "rating_number": 697,
+      "categories": [
+        "Anime"
+      ],
+      "description": [
+        "At the Queen's request, Ciel and Sebastian host an extravagant dinner party for the who's who of the London underground. But the elegant evening quickly spirals into mayhem when their most distinguished guest is found murdered in his room."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B01FNASU94",
+      "features": [
+        "IMDb 7.5",
+        "58min",
+        "1985",
+        "18+"
+      ],
+      "details": "{\"Subtitles\": [\"None available\"], \"Directors\": [\"Noriyuki Abe\"], \"Starring\": [\"Joan Hickson\", \"Michael Culver\", \"Elizabeth Counsell\"]}"
+    },
+    {
+      "id": 59,
+      "title": "New Amsterdam",
+      "average_rating": 4.7,
+      "rating_number": 1755,
+      "categories": [],
+      "description": [
+        "Dr. Max Goodwin is brilliant, charming -- and the new medical director at America's oldest public hospital. While he's set on tearing down the bureaucracy to provide exceptional care, the doctors and staff are not so sure. They've heard this before, and no one else has delivered on those promises."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B07H92XX1F",
+      "features": [
+        "2019",
+        "22 episodes",
+        "X-Ray",
+        "TV-14"
+      ],
+      "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"], \"Starring\": [\"Ryan Eggold\", \"Freema Agyeman\", \"Janet Montgomery\"]}"
+    },
+    {
+      "id": 60,
+      "title": "Last Man Standing",
+      "average_rating": 4.8,
+      "rating_number": 937,
+      "categories": [],
+      "description": [
+        "The series stars Tim Allen as Mike Baxter, a happily married father of three daughters, who finds himself the odd man out as he tries to maintain his manliness in a home surrounded by women."
+      ],
+      "main_category": "Prime Video",
+      "parent_asin": "B07GN1GC7Q",
+      "features": [
+        "2019",
+        "22 episodes",
+        "TV-14"
+      ],
+      "details": "{\"Audio languages\": [\"English\"], \"Subtitles\": [\"English [CC]\"]}"
+    }
+  ]
+}

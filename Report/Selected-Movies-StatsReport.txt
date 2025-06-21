@@ -1,0 +1,459 @@
+================================================================================
+MOVIE SELECTION ANALYSIS REPORT
+================================================================================
+
+📋 SELECTION CRITERIA SUMMARY
+--------------------------------------------------
+✓ Total Movies Selected: 60
+✓ Rating Number Threshold: > 500
+✓ Rating Distribution Target:
+  • low (1.0-2.5): 20 movies
+  • medium (3.0-4.0): 20 movies
+  • high (4.5-5.0): 20 movies
+✓ Additional Criteria:
+  • Maximum category diversity
+  • Balanced platform representation
+  • Quality data validation
+
+⭐ RATING DISTRIBUTION ANALYSIS
+--------------------------------------------------
+
+Low (1.0-2.5): 20 movies
+  Average: 2.28
+  Range: 2.0 - 2.5
+  • Battle Earth (2.3)
+  • The Neon Demon (2.5)
+  • Battle Earth (2.3)
+  • Borat’s American Lockdown & Debunking Borat (2.3)
+  • None (2.3)
+  • None (2.0)
+  • None (2.0)
+  • None (2.0)
+  • None (2.5)
+  • None (2.3)
+  • None (2.4)
+  • None (2.5)
+  • None (2.0)
+  • None (2.5)
+  • None (2.3)
+  • None (2.2)
+  • None (2.2)
+  • None (2.5)
+  • None (2.5)
+  • None (2.0)
+
+Medium (3.0-4.0): 20 movies
+  Average: 3.68
+  Range: 3.0 - 4.0
+  • I Give It a Year (3.7)
+  • Alien Conquest (3.0)
+  • The Details (4.0)
+  • The Taking of Deborah Logan (3.9)
+  • Empires (4.0)
+  • Ragnarok (3.9)
+  • Radioactive (3.3)
+  • Legend of Master Legend (3.7)
+  • Cats (3.2)
+  • Making The Cut (3.1)
+  • None (4.0)
+  • None (3.8)
+  • None (3.2)
+  • None (4.0)
+  • None (3.9)
+  • None (3.5)
+  • None (3.7)
+  • None (3.8)
+  • None (3.9)
+  • None (4.0)
+
+High (4.5-5.0): 20 movies
+  Average: 4.67
+  Range: 4.5 - 4.9
+  • Glee (4.7)
+  • Rise of the Planet of the Apes (4.7)
+  • Curious George: Royal Monkey (4.7)
+  • Haven (4.7)
+  • The Texas Chain Saw Massacre (4.6)
+  • Batman: Gotham By Gaslight (4.5)
+  • Ink Master (4.6)
+  • Trinity and Beyond - the Atomic Bomb Movie (4.7)
+  • Posse (4.6)
+  • Undercover Billionaire (4.6)
+  • Bryan Kest's Power Yoga (4.5)
+  • Below Deck Mediterranean (4.7)
+  • Mr Inbetween (4.6)
+  • Sharpe (4.5)
+  • RWBY: Volume 7 (4.9)
+  • DARK SIDE OF THE RING (4.8)
+  • Ip Man (4.8)
+  • Black Butler: Book of Murder - Part 1 (4.8)
+  • New Amsterdam (4.7)
+  • Last Man Standing (4.8)
+
+📊 RATING NUMBER ANALYSIS
+--------------------------------------------------
+All movies meet threshold requirement (> 500 ratings)
+Minimum reviews: 516
+Maximum reviews: 18,974
+Average reviews: 1,937
+Median reviews: 924
+
+Distribution by review count ranges:
+  500-1K: 34 movies
+  1K-5K: 23 movies
+  5K-10K: 1 movies
+  10K+: 2 movies
+
+🎭 CATEGORY DIVERSITY ANALYSIS
+--------------------------------------------------
+Total unique categories: 49
+Total category assignments: 75
+Average categories per movie: 1.2
+
+Top 10 most common categories:
+  • Movies & TV: 3 times (4.0%)
+  • Horror: 3 times (4.0%)
+  • Science Fiction: 3 times (4.0%)
+  • Action: 3 times (4.0%)
+  • Comedy: 3 times (4.0%)
+  • Documentary: 3 times (4.0%)
+  • Action & Adventure: 2 times (2.7%)
+  • Suspense: 2 times (2.7%)
+  • Emotional: 2 times (2.7%)
+  • Military and War: 2 times (2.7%)
+
+Categories per movie distribution:
+  0 categories: 34 movies
+  1 categories: 5 movies
+  2 categories: 3 movies
+  3 categories: 8 movies
+  4 categories: 10 movies
+
+📺 PLATFORM DISTRIBUTION ANALYSIS
+--------------------------------------------------
+Distribution by platform/source:
+  • Prime Video: 57 movies (95.0%)
+  • Movies & TV: 3 movies (5.0%)
+
+Platform diversity: 2 different sources
+
+🎬 DETAILED MOVIE LIST
+--------------------------------------------------
+
+ 1. None
+    Rating: 2.0 (3,068 reviews)
+    Platform: Prime Video
+
+ 2. None
+    Rating: 2.0 (726 reviews)
+    Platform: Prime Video
+
+ 3. None
+    Rating: 2.0 (726 reviews)
+    Platform: Prime Video
+
+ 4. None
+    Rating: 2.0 (3,068 reviews)
+    Platform: Prime Video
+
+ 5. None
+    Rating: 2.0 (3,067 reviews)
+    Platform: Prime Video
+
+ 6. None
+    Rating: 2.2 (686 reviews)
+    Platform: Prime Video
+
+ 7. None
+    Rating: 2.2 (670 reviews)
+    Platform: Prime Video
+
+ 8. Battle Earth
+    Rating: 2.3 (709 reviews)
+    Platform: Movies & TV
+    Categories: Movies & TV, Independently Distributed, Action & Adventure
+    Description: Confirmation of extraterrestrial life appears on television screens across the world as a massive sp...
+
+ 9. Battle Earth
+    Rating: 2.3 (709 reviews)
+    Platform: Prime Video
+    Categories: Science Fiction, Action, Military and War
+    Description: During an alien invasion of Earth,a young paramedic signs up to fight for his planet against the inv...
+
+10. Borat’s American Lockdown & Debunking Borat
+    Rating: 2.3 (837 reviews)
+    Platform: Prime Video
+    Categories: Comedy, Talk Show and Variety, Documentary
+    Description: Live the real-life drama of Sacha Baron Cohen, as Borat Sagdivev, where he spends five days at the p...
+
+11. None
+    Rating: 2.3 (836 reviews)
+    Platform: Prime Video
+
+12. None
+    Rating: 2.3 (558 reviews)
+    Platform: Prime Video
+
+13. None
+    Rating: 2.3 (709 reviews)
+    Platform: Prime Video
+
+14. None
+    Rating: 2.4 (1,352 reviews)
+    Platform: Prime Video
+
+15. The Neon Demon
+    Rating: 2.5 (2,963 reviews)
+    Platform: Prime Video
+    Categories: Suspense, Horror, Downbeat, Emotional
+    Description: When aspiring model Jesse moves to Los Angeles, her youth and vitality are devoured by a group of a ...
+
+16. None
+    Rating: 2.5 (645 reviews)
+    Platform: Prime Video
+
+17. None
+    Rating: 2.5 (645 reviews)
+    Platform: Prime Video
+
+18. None
+    Rating: 2.5 (645 reviews)
+    Platform: Prime Video
+
+19. None
+    Rating: 2.5 (2,635 reviews)
+    Platform: Prime Video
+
+20. None
+    Rating: 2.5 (2,635 reviews)
+    Platform: Prime Video
+
+21. Alien Conquest
+    Rating: 3.0 (1,807 reviews)
+    Platform: Prime Video
+    Categories: Action, Science Fiction, Fantastic, Harrowing
+    Description: Sibling astronomers discover Martians are threatening to attack Earth, but no one believes them-unti...
+
+22. Making The Cut
+    Rating: 3.1 (589 reviews)
+    Platform: Prime Video
+    Categories: Unscripted
+    Description: In the third season of Making the Cut, Heidi Klum and Tim Gunn welcome 10 established designers from...
+
+23. Cats
+    Rating: 3.2 (1,251 reviews)
+    Platform: Prime Video
+    Categories: Animation, Kids, Cheerful, Sweet
+    Description: Blanket (Dermot Mulroney) is an indoor cat who is too afraid to leave his apartment. But when his ad...
+
+24. None
+    Rating: 3.2 (780 reviews)
+    Platform: Prime Video
+
+25. Radioactive
+    Rating: 3.3 (1,741 reviews)
+    Platform: Prime Video
+    Categories: International, Romance, Edifying, Philosophical
+    Description: Pioneer – Rebel – Genius | Don’t miss Rosamund Pike in the incredible, true-story of Marie Curie and...
+
+26. None
+    Rating: 3.5 (952 reviews)
+    Platform: Prime Video
+
+27. I Give It a Year
+    Rating: 3.7 (807 reviews)
+    Platform: Movies & TV
+    Categories: Movies & TV, Blu-ray, Movies
+    Description: Directed by Dan Mazer. Starring Stephen Merchant, Rafe Spall, Rose Byrne.
+
+28. Legend of Master Legend
+    Rating: 3.7 (1,179 reviews)
+    Platform: Prime Video
+    Description: [Pilot Episode] THE LEGEND OF MASTER LEGEND is a dark comedy about the life of Master Legend - a rea...
+
+29. None
+    Rating: 3.7 (1,621 reviews)
+    Platform: Prime Video
+
+30. None
+    Rating: 3.8 (564 reviews)
+    Platform: Prime Video
+
+31. None
+    Rating: 3.8 (18,974 reviews)
+    Platform: Prime Video
+
+32. The Taking of Deborah Logan
+    Rating: 3.9 (3,596 reviews)
+    Platform: Prime Video
+    Categories: Suspense, Horror, Atmospheric, Eerie
+    Description: An elderly woman battling Alzheimer's disease agrees to let a film crew document her condition, but ...
+
+33. Ragnarok
+    Rating: 3.9 (579 reviews)
+    Platform: Prime Video
+    Categories: Fantasy, Adventure, Compelling, Electrifying
+    Description: An archaeologist is intrigued by an inscription on a Viking funeral ship. Sigurd believes this is th...
+
+34. None
+    Rating: 3.9 (3,244 reviews)
+    Platform: Prime Video
+
+35. None
+    Rating: 3.9 (1,248 reviews)
+    Platform: Prime Video
+
+36. The Details
+    Rating: 4.0 (590 reviews)
+    Platform: Prime Video
+    Categories: Comedy, Drama, Biting
+    Description: Tobey Maguire, Elizabeth Banks star in this darkly funny comedy about how one perfect couple's small...
+
+37. Empires
+    Rating: 4.0 (894 reviews)
+    Platform: Prime Video
+    Categories: Historical, Documentary, Special Interest
+    Description: Two thousand years ago, at the dawn of the first century, the ancient world was ruled by Rome. Throu...
+
+38. None
+    Rating: 4.0 (1,585 reviews)
+    Platform: Prime Video
+
+39. None
+    Rating: 4.0 (628 reviews)
+    Platform: Prime Video
+
+40. None
+    Rating: 4.0 (1,376 reviews)
+    Platform: Prime Video
+
+41. Batman: Gotham By Gaslight
+    Rating: 4.5 (2,567 reviews)
+    Platform: Prime Video
+    Categories: Adventure, Action
+    Description: It's Batman vs. Jack the Ripper in an Elseworld's adventure that imagines the Dark Knight over a hun...
+
+42. Bryan Kest's Power Yoga
+    Rating: 4.5 (784 reviews)
+    Platform: Prime Video
+    Categories: Special Interest
+    Description: Get in shape like the stars with Bryan Kest, one of the most popular yoga instructors in Hollywood.
+
+43. Sharpe
+    Rating: 4.5 (516 reviews)
+    Platform: Prime Video
+    Description: The award-winning Sharpe returns for an action-packed swashbuckling special shot entirely on locatio...
+
+44. The Texas Chain Saw Massacre
+    Rating: 4.6 (5,917 reviews)
+    Platform: Prime Video
+    Categories: Horror, Compelling, Frightening, Outlandish
+    Description: A group of friends are terrorised by a chainsaw wielding madman and his depraved family in this lege...
+
+45. Ink Master
+    Rating: 4.6 (1,778 reviews)
+    Platform: Prime Video
+    Categories: Unscripted
+    Description: Twenty of the nation's top tattoo artists from the East, West, South and Midwest come together to re...
+
+46. Posse
+    Rating: 4.6 (784 reviews)
+    Platform: Prime Video
+    Categories: Young Adult Audience, Western, Gritty, Intense
+    Description: There's action galore in this off-beat western style film that features a group of mostly black infa...
+
+47. Undercover Billionaire
+    Rating: 4.6 (624 reviews)
+    Platform: Prime Video
+    Description: Glenn Stearns is a self-made billionaire. He grew up poor in the sticks of Maryland and was just 14 ...
+
+48. Mr Inbetween
+    Rating: 4.6 (925 reviews)
+    Platform: Prime Video
+    Description: The FX drama series Mr Inbetween centers on Ray Shoesmith. He’s a father, ex-husband, boyfriend, bes...
+
+49. Glee
+    Rating: 4.7 (2,004 reviews)
+    Platform: Prime Video
+    Categories: Comedy, Drama, Arts, Entertainment, and Culture, Music Videos and Concerts
+    Description: Entering its fourth season, this year the members of New Directions compete amongst themselves to be...
+
+50. Rise of the Planet of the Apes
+    Rating: 4.7 (14,829 reviews)
+    Platform: Movies & TV
+    Categories: Movies & TV, Genre for Featured Categories, Action & Adventure
+    Description: While attempting to find a cure for Alzheimer's disease scientists create a genetically-enhanced chi...
+
+51. Curious George: Royal Monkey
+    Rating: 4.7 (741 reviews)
+    Platform: Prime Video
+    Categories: Kids, Charming, Joyous
+    Description: Join your favorite monkey as he takes on his most regal role yet, trading places with a royal monkey...
+
+52. Haven
+    Rating: 4.7 (726 reviews)
+    Platform: Prime Video
+    Categories: Science Fiction, Fantasy
+    Description: Season Five picks up with the aftermath of our heroes' victory over William. After having successful...
+
+53. Trinity and Beyond - the Atomic Bomb Movie
+    Rating: 4.7 (924 reviews)
+    Platform: Prime Video
+    Categories: Documentary, Military and War
+    Description: Robert Oppenheimer chose to name the first atomic bomb the "Trinity" test, a name inspired by the po...
+
+54. Below Deck Mediterranean
+    Rating: 4.7 (786 reviews)
+    Platform: Prime Video
+    Description: Sandy may be navigating the "Sirocco" mega yacht again, but she brings a new level of leadership in ...
+
+55. New Amsterdam
+    Rating: 4.7 (1,755 reviews)
+    Platform: Prime Video
+    Description: Dr. Max Goodwin is brilliant, charming -- and the new medical director at America's oldest public ho...
+
+56. DARK SIDE OF THE RING
+    Rating: 4.8 (587 reviews)
+    Platform: Prime Video
+    Description: Venturing deeper into wrestling's shrouded past, this season tackles the biggest stories from the la...
+
+57. Ip Man
+    Rating: 4.8 (3,850 reviews)
+    Platform: Prime Video
+    Categories: Historical, International, Emotional, Exciting
+    Description: Ip Man is the award winning film adaptation about the life story of Ip Man, the grand master of the ...
+
+58. Black Butler: Book of Murder - Part 1
+    Rating: 4.8 (697 reviews)
+    Platform: Prime Video
+    Categories: Anime
+    Description: At the Queen's request, Ciel and Sebastian host an extravagant dinner party for the who's who of the...
+
+59. Last Man Standing
+    Rating: 4.8 (937 reviews)
+    Platform: Prime Video
+    Description: The series stars Tim Allen as Mike Baxter, a happily married father of three daughters, who finds hi...
+
+60. RWBY: Volume 7
+    Rating: 4.9 (2,607 reviews)
+    Platform: Prime Video
+    Categories: Animation
+    Description: Enemies and allies will collide as Ruby, Weiss, Blake and Yang fight to stop Salem's forces, but ban...
+
+📈 STATISTICAL SUMMARY
+--------------------------------------------------
+Rating Statistics:
+  Mean: 3.54
+  Median: 3.80
+  Range: 2.0 - 4.9
+  Standard Deviation: 1.01
+
+Review Count Statistics:
+  Mean: 1,937
+  Median: 924
+  Range: 516 - 18,974
+  Coefficient of Variation: 154.9%
+
+================================================================================
+REPORT COMPLETE
+================================================================================
