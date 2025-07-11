@@ -1,0 +1,13 @@
+{
+  "processing_timestamp": "2025-07-10T17:38:19.974669",
+  "llm_model": "gpt-4o-mini",
+  "context_template": {
+    "positive_pre_context": "This film has received a lot of praise, and I was really looking forward to it.",
+    "negative_pre_context": "This movie was overhyped online.",
+    "positive_post_sentiment": "It reignited my passion for life.",
+    "negative_post_sentiment": "But the plot was quite disappointing."
+  },
+  "total_movies": 60,
+  "total_reviews": 624,
+  "total_variants": 3120
+}

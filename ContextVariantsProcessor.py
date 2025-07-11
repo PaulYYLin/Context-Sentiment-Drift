@@ -12,6 +12,9 @@ from langchain_core.output_parsers import PydanticOutputParser
 from langchain_openai import ChatOpenAI
 from pydantic import BaseModel, Field
 
+# Progress bar
+from tqdm import tqdm
+
 from dotenv import load_dotenv
 import os
 load_dotenv()
@@ -22,6 +25,9 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 # Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
+
+# 設定 httpx 日誌級別為 WARNING 以避免干擾進度條
+logging.getLogger("httpx").setLevel(logging.WARNING)
 
 
 @dataclass
@@ -271,6 +277,26 @@ class ContextVariantsProcessor:
         with open(json_file_path, 'r', encoding='utf-8') as f:
             return json.load(f)
     
+    def _load_existing_results(self, output_file_path: str) -> Optional[Dict[str, Any]]:
+        """
+        Load existing results from output file if it exists
+        
+        Args:
+            output_file_path: Path to the output file
+            
+        Returns:
+            Existing processed data or None if file doesn't exist
+        """
+        try:
+            if Path(output_file_path).exists():
+                logger.info(f"Loading existing results from {output_file_path}")
+                with open(output_file_path, 'r', encoding='utf-8') as f:
+                    return json.load(f)
+        except Exception as e:
+            logger.warning(f"Error loading existing results: {str(e)}")
+        
+        return None
+    
     def process_all_reviews(self, 
                           json_file_path: str, 
                           output_file_path: str,
@@ -291,86 +317,118 @@ class ContextVariantsProcessor:
         logger.info(f"Loading reviews from {json_file_path}")
         data = self.load_reviews_data(json_file_path)
         
-        processed_data = {
-            "experiment_metadata": {
-                "processing_timestamp": datetime.now().isoformat(),
-                "llm_model": self.llm_model,
-                "context_template": asdict(self.context_template),
-                "total_movies": 0,
-                "total_reviews": 0,
-                "total_variants": 0
-            },
-            "results": {}
-        }
+        # 檢查輸出檔案是否已存在，如果存在則載入已處理的結果
+        processed_data = self._load_existing_results(output_file_path)
         
-        total_movies = 0
-        total_reviews = 0
-        total_variants = 0
+        # 如果是新檔案，初始化結構
+        if not processed_data:
+            processed_data = {
+                "experiment_metadata": {
+                    "processing_timestamp": datetime.now().isoformat(),
+                    "llm_model": self.llm_model,
+                    "context_template": asdict(self.context_template),
+                    "total_movies": 0,
+                    "total_reviews": 0,
+                    "total_variants": 0
+                },
+                "results": {}
+            }
+        else:
+            # 更新處理時間戳記（繼續處理）
+            processed_data["experiment_metadata"]["processing_timestamp"] = datetime.now().isoformat()
+            logger.info(f"Found existing results with {len(processed_data['results'])} movies already processed")
         
-        for movie_id, reviews in data.get("selected_reviews", {}).items():
-            logger.info(f"Processing movie {movie_id}")
-            
-            # Limit reviews per movie if specified
-            if max_reviews_per_movie:
-                reviews = reviews[:max_reviews_per_movie]
-            
-            movie_results = []
-            
-            for review in reviews:
-                # Extract review text and metadata
-                review_text = review.get("text", "")
-                if not review_text.strip():
+        # 從已有結果中獲取統計資訊
+        total_movies = processed_data["experiment_metadata"]["total_movies"]
+        total_reviews = processed_data["experiment_metadata"]["total_reviews"]
+        total_variants = processed_data["experiment_metadata"]["total_variants"]
+        
+        # 獲取已處理的電影清單
+        processed_movies = set(processed_data["results"].keys())
+        
+        # 計算總電影數和剩餘電影數
+        all_movies = list(data.get("selected_reviews", {}).keys())
+        remaining_movies = [movie_id for movie_id in all_movies if movie_id not in processed_movies]
+        
+        # 創建進度條
+        with tqdm(total=len(remaining_movies), desc="處理電影進度", unit="部電影") as pbar:
+            for movie_id, reviews in data.get("selected_reviews", {}).items():
+                # 跳過已處理的電影
+                if movie_id in processed_movies:
                     continue
+                    
+                logger.info(f"Processing movie {movie_id}")
+                pbar.set_description(f"處理電影 {movie_id}")
                 
-                metadata = {
-                    "rating": review.get("rating"),
-                    "title": review.get("title"),
-                    "user_id": review.get("user_id"),
-                    "timestamp": review.get("timestamp"),
-                    "word_count": review.get("word_count"),
-                    "movie_id": movie_id
-                }
+                # Limit reviews per movie if specified
+                if max_reviews_per_movie:
+                    reviews = reviews[:max_reviews_per_movie]
                 
-                # Create variants
-                variants = self.create_variants(review_text, metadata)
+                movie_results: List[Dict[str, Any]] = []
                 
-                # Process variants
-                if use_async:
-                    # For async processing, we need to run in event loop
-                    try:
-                        loop = asyncio.get_event_loop()
-                        if loop.is_running():
-                            # If loop is already running, use sync version
+                for review in reviews:
+                    # Extract review text and metadata
+                    review_text = review.get("text", "")
+                    if not review_text.strip():
+                        continue
+                    
+                    metadata = {
+                        "rating": review.get("rating"),
+                        "title": review.get("title"),
+                        "user_id": review.get("user_id"),
+                        "timestamp": review.get("timestamp"),
+                        "word_count": review.get("word_count"),
+                        "movie_id": movie_id
+                    }
+                    
+                    # Create variants
+                    variants = self.create_variants(review_text, metadata)
+                    
+                    # Process variants
+                    if use_async:
+                        # For async processing, we need to run in event loop
+                        try:
+                            loop = asyncio.get_event_loop()
+                            if loop.is_running():
+                                # If loop is already running, use sync version
+                                processed_variants = self.process_variants_batch(variants)
+                            else:
+                                processed_variants = loop.run_until_complete(
+                                    self.process_variants_batch_async(variants)
+                                )
+                        except RuntimeError:
+                            # Fallback to sync processing
                             processed_variants = self.process_variants_batch(variants)
-                        else:
-                            processed_variants = loop.run_until_complete(
-                                self.process_variants_batch_async(variants)
-                            )
-                    except RuntimeError:
-                        # Fallback to sync processing
+                    else:
                         processed_variants = self.process_variants_batch(variants)
-                else:
-                    processed_variants = self.process_variants_batch(variants)
+                    
+                    movie_results.append({
+                        "review_id": f"{movie_id}_{len(movie_results)}",
+                        "variants": processed_variants
+                    })
+                    
+                    total_reviews += 1
+                    total_variants += len(variants)
                 
-                movie_results.append({
-                    "review_id": f"{movie_id}_{len(movie_results)}",
-                    "variants": processed_variants
+                processed_data["results"][movie_id] = movie_results
+                total_movies += 1
+                
+                logger.info(f"Completed movie {movie_id}: {len(movie_results)} reviews, {len(movie_results) * 5} variants")
+                
+                # <<<< 新增：每處理完一部電影就寫入檔案 >>>>
+                processed_data["experiment_metadata"]["total_movies"] = total_movies
+                processed_data["experiment_metadata"]["total_reviews"] = total_reviews
+                processed_data["experiment_metadata"]["total_variants"] = total_variants
+                with open(output_file_path, 'w', encoding='utf-8') as f:
+                    json.dump(processed_data, f, indent=2, ensure_ascii=False)
+                
+                # 更新進度條
+                pbar.update(1)
+                pbar.set_postfix({
+                    "Processed Movies": f"{total_movies} movies",
+                    "Total Reviews": total_reviews,
+                    "Total Variants": total_variants
                 })
-                
-                total_reviews += 1
-                total_variants += len(variants)
-            
-            processed_data["results"][movie_id] = movie_results
-            total_movies += 1
-            
-            logger.info(f"Completed movie {movie_id}: {len(movie_results)} reviews, {len(movie_results) * 5} variants")
-            
-            # <<<< 新增：每處理完一部電影就寫入檔案 >>>>
-            processed_data["experiment_metadata"]["total_movies"] = total_movies
-            processed_data["experiment_metadata"]["total_reviews"] = total_reviews
-            processed_data["experiment_metadata"]["total_variants"] = total_variants
-            with open(output_file_path, 'w', encoding='utf-8') as f:
-                json.dump(processed_data, f, indent=2, ensure_ascii=False)
         
         # 最後再寫一次完整結果
         logger.info(f"Saving results to {output_file_path}")
@@ -385,3 +443,15 @@ class ContextVariantsProcessor:
             "total_variants": total_variants,
             "output_file": output_file_path
         }
+    
+
+if __name__ == "__main__":
+    processor = ContextVariantsProcessor(
+        llm_model="gpt-4o-mini"
+    )
+    results = processor.process_all_reviews(
+        json_file_path="Movies_and_TV_reviews_selected.json",
+        output_file_path="context_variants_results.json",
+        max_reviews_per_movie=None,
+        use_async=True
+    )

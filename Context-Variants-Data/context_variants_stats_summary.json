@@ -1,0 +1,22 @@
+{
+  "total_records": 3120,
+  "unique_movies": 51,
+  "unique_reviews": 624,
+  "variant_types": {
+    "original": 624,
+    "positive_positive": 624,
+    "positive_negative": 624,
+    "negative_positive": 624,
+    "negative_negative": 624
+  },
+  "sentiment_score_stats": {
+    "mean": -0.20326923076923079,
+    "min": -1.0,
+    "max": 1.0
+  },
+  "confidence_stats": {
+    "mean": 0.8597596153846153,
+    "min": 0.7,
+    "max": 0.95
+  }
+}
